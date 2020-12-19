@@ -1,0 +1,1080 @@
+{"price_coefficient": 1.0, "description": "Потік покупців", "avg_markers": 0.014578625597307718, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.0, "description": "Покупець надійшов", "avg_markers": 0.014578625597307718, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.0, "description": "Черга покупців", "avg_markers": 0.0033927289039021647, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.0, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 6446.871474331299, "max_markers": 12845, "min_markers": 0, "result_markers": 12845}
+{"price_coefficient": 1.0, "description": "Запас товару", "avg_markers": 500.474572434025, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.0, "description": "Продавець", "avg_markers": 0.9274827889031861, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 1.0, "description": "Кількість обслугованих покупців", "avg_markers": 499.45291035487816, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 1.0, "description": "Прибуток", "avg_markers": 131887.3333908967, "max_markers": 500000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.0, "description": "Богр", "avg_markers": 26727871831.793903, "max_markers": 162321041232, "min_markers": 498500000, "result_markers": 162320541232}
+{"price_coefficient": 1.0, "description": "Погашений борг", "avg_markers": 249594567.8440482, "max_markers": 500000000, "min_markers": 0, "result_markers": 500000000}
+{"price_coefficient": 1.0, "description": "Затримка процентної ставки", "avg_markers": 0.00031694953447379006, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.0, "description": "Процентна ставка готова до дії", "avg_markers": 0.00031694953447379006, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.1, "description": "Потік покупців", "avg_markers": 0.013833474388425422, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.1, "description": "Покупець надійшов", "avg_markers": 0.013833474388425422, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.1, "description": "Черга покупців", "avg_markers": 0.0024896223753677507, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.1, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 6452.356749486156, "max_markers": 12730, "min_markers": 0, "result_markers": 12730}
+{"price_coefficient": 1.1, "description": "Запас товару", "avg_markers": 505.4833706121791, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.1, "description": "Продавець", "avg_markers": 0.9345323016160884, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 1.1, "description": "Кількість обслугованих покупців", "avg_markers": 494.451161689437, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 1.1, "description": "Прибуток", "avg_markers": 152667.50191431912, "max_markers": 550000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.1, "description": "Богр", "avg_markers": 25466620831.40211, "max_markers": 144313947710, "min_markers": 497800000, "result_markers": 144312297710}
+{"price_coefficient": 1.1, "description": "Погашений борг", "avg_markers": 271795471.427276, "max_markers": 550000000, "min_markers": 0, "result_markers": 550000000}
+{"price_coefficient": 1.1, "description": "Затримка процентної ставки", "avg_markers": 0.0002982307661306573, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.1, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002982307661306573, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.2, "description": "Потік покупців", "avg_markers": 0.013001773852290368, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.2, "description": "Покупець надійшов", "avg_markers": 0.013001773852290368, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.2, "description": "Черга покупців", "avg_markers": 0.006515458549560034, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.2, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 6126.391380204741, "max_markers": 12384, "min_markers": 0, "result_markers": 12384}
+{"price_coefficient": 1.2, "description": "Запас товару", "avg_markers": 497.77465955830496, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.2, "description": "Продавець", "avg_markers": 0.918362965539082, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 1.2, "description": "Кількість обслугованих покупців", "avg_markers": 502.1437034072341, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 1.2, "description": "Прибуток", "avg_markers": 175150.9134464998, "max_markers": 600000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.2, "description": "Богр", "avg_markers": 20268912243.25431, "max_markers": 115458123541, "min_markers": 497600000, "result_markers": 115455123541}
+{"price_coefficient": 1.2, "description": "Погашений борг", "avg_markers": 301111071.130894, "max_markers": 600000000, "min_markers": 0, "result_markers": 600000000}
+{"price_coefficient": 1.2, "description": "Затримка процентної ставки", "avg_markers": 0.00027880372800413445, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.2, "description": "Процентна ставка готова до дії", "avg_markers": 0.00027880372800413445, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.3, "description": "Потік покупців", "avg_markers": 0.012362917711378003, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.3, "description": "Покупець надійшов", "avg_markers": 0.012362917711378003, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.3, "description": "Черга покупців", "avg_markers": 0.0024989956918644116, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.3, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 6169.314410782807, "max_markers": 12387, "min_markers": 0, "result_markers": 12387}
+{"price_coefficient": 1.3, "description": "Запас товару", "avg_markers": 501.3971805492065, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.3, "description": "Продавець", "avg_markers": 0.9254974211214082, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 1.3, "description": "Кількість обслугованих покупців", "avg_markers": 498.5283168719149, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 1.3, "description": "Прибуток", "avg_markers": 195392.87887813008, "max_markers": 650000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.3, "description": "Богр", "avg_markers": 21255265040.400833, "max_markers": 121502490048, "min_markers": 498700000, "result_markers": 121501840048}
+{"price_coefficient": 1.3, "description": "Погашений борг", "avg_markers": 323848013.08786654, "max_markers": 650000000, "min_markers": 0, "result_markers": 650000000}
+{"price_coefficient": 1.3, "description": "Затримка процентної ставки", "avg_markers": 0.00026781550282360656, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.3, "description": "Процентна ставка готова до дії", "avg_markers": 0.00026781550282360656, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.4, "description": "Потік покупців", "avg_markers": 0.011858139541083602, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.4, "description": "Покупець надійшов", "avg_markers": 0.011858139541083602, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.4, "description": "Черга покупців", "avg_markers": 0.0034692878273673844, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.4, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 6230.164975122256, "max_markers": 12344, "min_markers": 0, "result_markers": 12344}
+{"price_coefficient": 1.4, "description": "Запас товару", "avg_markers": 501.58454123022864, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.4, "description": "Продавець", "avg_markers": 0.9156671580898655, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 1.4, "description": "Кількість обслугованих покупців", "avg_markers": 498.3311259278612, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 1.4, "description": "Прибуток", "avg_markers": 218030.7881521688, "max_markers": 700000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.4, "description": "Богр", "avg_markers": 18894509156.12622, "max_markers": 107189040343, "min_markers": 498600000, "result_markers": 107188340343}
+{"price_coefficient": 1.4, "description": "Погашений борг", "avg_markers": 348613757.36135066, "max_markers": 700000000, "min_markers": 0, "result_markers": 700000000}
+{"price_coefficient": 1.4, "description": "Затримка процентної ставки", "avg_markers": 0.0002532651205941866, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.4, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002532651205941866, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.5, "description": "Потік покупців", "avg_markers": 0.01138727051012804, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.5, "description": "Покупець надійшов", "avg_markers": 0.01138727051012804, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.5, "description": "Черга покупців", "avg_markers": 0.003676072081837274, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.5, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 6108.114718684371, "max_markers": 12447, "min_markers": 0, "result_markers": 12447}
+{"price_coefficient": 1.5, "description": "Запас товару", "avg_markers": 494.05242530993837, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.5, "description": "Продавець", "avg_markers": 0.9280045389878735, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 1.5, "description": "Кількість обслугованих покупців", "avg_markers": 505.87557922904955, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 1.5, "description": "Прибуток", "avg_markers": 238488.03434726645, "max_markers": 750000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.5, "description": "Богр", "avg_markers": 18000924814.723873, "max_markers": 107290375170, "min_markers": 497750000, "result_markers": 107288125170}
+{"price_coefficient": 1.5, "description": "Погашений борг", "avg_markers": 379168196.38743985, "max_markers": 750000000, "min_markers": 0, "result_markers": 750000000}
+{"price_coefficient": 1.5, "description": "Затримка процентної ставки", "avg_markers": 0.00024388591558837478, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.5, "description": "Процентна ставка готова до дії", "avg_markers": 0.00024388591558837478, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.6, "description": "Потік покупців", "avg_markers": 0.01085639517475318, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.6, "description": "Покупець надійшов", "avg_markers": 0.01085639517475318, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.6, "description": "Черга покупців", "avg_markers": 0.002359301233382964, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.6, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 6192.507970845075, "max_markers": 12234, "min_markers": 0, "result_markers": 12234}
+{"price_coefficient": 1.6, "description": "Запас товару", "avg_markers": 503.53938827158214, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.6, "description": "Продавець", "avg_markers": 0.9285400798191968, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 1.6, "description": "Кількість обслугованих покупців", "avg_markers": 496.38915180823705, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 1.6, "description": "Прибуток", "avg_markers": 262839.28203739936, "max_markers": 800000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.6, "description": "Богр", "avg_markers": 17232611991.6451, "max_markers": 92319614746, "min_markers": 499200000, "result_markers": 92316414746}
+{"price_coefficient": 1.6, "description": "Погашений борг", "avg_markers": 396848482.1645522, "max_markers": 800000000, "min_markers": 0, "result_markers": 800000000}
+{"price_coefficient": 1.6, "description": "Затримка процентної ставки", "avg_markers": 0.00022969553037108134, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.6, "description": "Процентна ставка готова до дії", "avg_markers": 0.00022969553037108134, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.7, "description": "Потік покупців", "avg_markers": 0.010174488345550323, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.7, "description": "Покупець надійшов", "avg_markers": 0.010174488345550323, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.7, "description": "Черга покупців", "avg_markers": 0.002195361188436873, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.7, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 5932.845557795577, "max_markers": 11935, "min_markers": 0, "result_markers": 11935}
+{"price_coefficient": 1.7, "description": "Запас товару", "avg_markers": 500.07959147875783, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.7, "description": "Продавець", "avg_markers": 0.9336011396056215, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 1.7, "description": "Кількість обслугованих покупців", "avg_markers": 499.8540096608478, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 1.7, "description": "Прибуток", "avg_markers": 284491.11983871844, "max_markers": 850000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.7, "description": "Богр", "avg_markers": 16417370002.472803, "max_markers": 92009506104, "min_markers": 497449000, "result_markers": 92006956104}
+{"price_coefficient": 1.7, "description": "Погашений борг", "avg_markers": 424591417.0918819, "max_markers": 850000000, "min_markers": 0, "result_markers": 850000000}
+{"price_coefficient": 1.7, "description": "Затримка процентної ставки", "avg_markers": 0.00022181721789294093, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.7, "description": "Процентна ставка готова до дії", "avg_markers": 0.00022181721789294093, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.8, "description": "Потік покупців", "avg_markers": 0.010201007767177526, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.8, "description": "Покупець надійшов", "avg_markers": 0.010201007767177526, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.8, "description": "Черга покупців", "avg_markers": 0.0022267752721053602, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.8, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 6385.326931572444, "max_markers": 12647, "min_markers": 0, "result_markers": 12647}
+{"price_coefficient": 1.8, "description": "Запас товару", "avg_markers": 499.0547903325512, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.8, "description": "Продавець", "avg_markers": 0.9316030913232008, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 1.8, "description": "Кількість обслугованих покупців", "avg_markers": 500.876812758772, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 1.8, "description": "Прибуток", "avg_markers": 303071.5146930541, "max_markers": 900000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.8, "description": "Богр", "avg_markers": 19993385838.108574, "max_markers": 113265781997, "min_markers": 496400000, "result_markers": 113263981997}
+{"price_coefficient": 1.8, "description": "Погашений борг", "avg_markers": 450486059.96820176, "max_markers": 900000000, "min_markers": 0, "result_markers": 900000000}
+{"price_coefficient": 1.8, "description": "Затримка процентної ставки", "avg_markers": 0.00021901482199626404, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.8, "description": "Процентна ставка готова до дії", "avg_markers": 0.00021901482199626404, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.9, "description": "Потік покупців", "avg_markers": 0.00954829016511412, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.9, "description": "Покупець надійшов", "avg_markers": 0.00954829016511412, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.9, "description": "Черга покупців", "avg_markers": 0.0027079215526004943, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.9, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 5921.595331113975, "max_markers": 11990, "min_markers": 0, "result_markers": 11990}
+{"price_coefficient": 1.9, "description": "Запас товару", "avg_markers": 496.9908273200177, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.9, "description": "Продавець", "avg_markers": 0.9374281948733253, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 1.9, "description": "Кількість обслугованих покупців", "avg_markers": 502.9466008748557, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 1.9, "description": "Прибуток", "avg_markers": 332040.13663096045, "max_markers": 950000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.9, "description": "Богр", "avg_markers": 13377779750.627058, "max_markers": 74190593203, "min_markers": 497150000, "result_markers": 74189643203}
+{"price_coefficient": 1.9, "description": "Погашений борг", "avg_markers": 477467230.6944819, "max_markers": 950000000, "min_markers": 0, "result_markers": 950000000}
+{"price_coefficient": 1.9, "description": "Затримка процентної ставки", "avg_markers": 0.00020213855237924427, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 1.9, "description": "Процентна ставка готова до дії", "avg_markers": 0.00020213855237924427, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.0, "description": "Потік покупців", "avg_markers": 0.012067123527947081, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.0, "description": "Покупець надійшов", "avg_markers": 0.012067123527947081, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.0, "description": "Черга покупців", "avg_markers": 0.0016497541314381809, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.0, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 9260.548355581504, "max_markers": 18675, "min_markers": 0, "result_markers": 18675}
+{"price_coefficient": 2.0, "description": "Запас товару", "avg_markers": 497.8028825927021, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.0, "description": "Продавець", "avg_markers": 0.9515990349244977, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.0, "description": "Кількість обслугованих покупців", "avg_markers": 502.1487164422224, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 2.0, "description": "Прибуток", "avg_markers": 306953.00776549696, "max_markers": 1000000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.0, "description": "Богр", "avg_markers": 194883227880.83, "max_markers": 1648346171551, "min_markers": 499000000, "result_markers": 1648344171551}
+{"price_coefficient": 2.0, "description": "Погашений борг", "avg_markers": 501841763.43445694, "max_markers": 1000000000, "min_markers": 0, "result_markers": 1000000000}
+{"price_coefficient": 2.0, "description": "Затримка процентної ставки", "avg_markers": 0.00025942230393990724, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.0, "description": "Процентна ставка готова до дії", "avg_markers": 0.00025942230393990724, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.1, "description": "Потік покупців", "avg_markers": 0.011736684471067108, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.1, "description": "Покупець надійшов", "avg_markers": 0.011736684471067108, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.1, "description": "Черга покупців", "avg_markers": 0.0009853150727136455, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.1, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 9420.276621726109, "max_markers": 18809, "min_markers": 0, "result_markers": 18809}
+{"price_coefficient": 2.1, "description": "Запас товару", "avg_markers": 501.1001513818407, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.1, "description": "Продавець", "avg_markers": 0.9575165083230388, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.1, "description": "Кількість обслугованих покупців", "avg_markers": 498.85736512648236, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 2.1, "description": "Прибуток", "avg_markers": 326923.18630631274, "max_markers": 1050000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.1, "description": "Богр", "avg_markers": 205886369384.65536, "max_markers": 1760183633996, "min_markers": 498950000, "result_markers": 1760180483996}
+{"price_coefficient": 2.1, "description": "Погашений борг", "avg_markers": 523473310.1965001, "max_markers": 1050000000, "min_markers": 0, "result_markers": 1050000000}
+{"price_coefficient": 2.1, "description": "Затримка процентної ставки", "avg_markers": 0.00025299430910927635, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.1, "description": "Процентна ставка готова до дії", "avg_markers": 0.00025299430910927635, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.2, "description": "Потік покупців", "avg_markers": 0.011278413069925351, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.2, "description": "Покупець надійшов", "avg_markers": 0.011278413069925351, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.2, "description": "Черга покупців", "avg_markers": 0.0009358646243172008, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.2, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 9220.681915414507, "max_markers": 18487, "min_markers": 0, "result_markers": 18487}
+{"price_coefficient": 2.2, "description": "Запас товару", "avg_markers": 499.6793954673362, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.2, "description": "Продавець", "avg_markers": 0.9509744683166128, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.2, "description": "Кількість обслугованих покупців", "avg_markers": 500.2715790009804, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 2.2, "description": "Прибуток", "avg_markers": 350472.38823160366, "max_markers": 1100000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.2, "description": "Богр", "avg_markers": 184186070020.3261, "max_markers": 1538252155909, "min_markers": 498900000, "result_markers": 1538251055909}
+{"price_coefficient": 2.2, "description": "Погашений борг", "avg_markers": 549948264.5128468, "max_markers": 1100000000, "min_markers": 0, "result_markers": 1100000000}
+{"price_coefficient": 2.2, "description": "Затримка процентної ставки", "avg_markers": 0.00024366048660330337, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.2, "description": "Процентна ставка готова до дії", "avg_markers": 0.00024366048660330337, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.3, "description": "Потік покупців", "avg_markers": 0.010991149873315743, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.3, "description": "Покупець надійшов", "avg_markers": 0.010991149873315743, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.3, "description": "Черга покупців", "avg_markers": 0.0009348288337996194, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.3, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 9200.689278579557, "max_markers": 18482, "min_markers": 0, "result_markers": 18482}
+{"price_coefficient": 2.3, "description": "Запас товару", "avg_markers": 498.09521883288005, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.3, "description": "Продавець", "avg_markers": 0.9521640695124504, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.3, "description": "Кількість обслугованих покупців", "avg_markers": 501.85694523663244, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 2.3, "description": "Прибуток", "avg_markers": 373381.468273647, "max_markers": 1150000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.3, "description": "Богр", "avg_markers": 165142282486.4191, "max_markers": 1344856696977, "min_markers": 498850000, "result_markers": 1344853246977}
+{"price_coefficient": 2.3, "description": "Погашений борг", "avg_markers": 576762105.5538536, "max_markers": 1150000000, "min_markers": 0, "result_markers": 1150000000}
+{"price_coefficient": 2.3, "description": "Затримка процентної ставки", "avg_markers": 0.0002352586745289326, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.3, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002352586745289326, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.4, "description": "Потік покупців", "avg_markers": 0.010612935265537275, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.4, "description": "Покупець надійшов", "avg_markers": 0.010612935265537275, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.4, "description": "Черга покупців", "avg_markers": 0.0008791553527288642, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.4, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 9153.059074523087, "max_markers": 18351, "min_markers": 0, "result_markers": 18351}
+{"price_coefficient": 2.4, "description": "Запас товару", "avg_markers": 498.4052083510435, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.4, "description": "Продавець", "avg_markers": 0.9535950762912697, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.4, "description": "Кількість обслугованих покупців", "avg_markers": 501.5483867252478, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 2.4, "description": "Прибуток", "avg_markers": 395209.2340379556, "max_markers": 1200000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.4, "description": "Богр", "avg_markers": 161156235967.76828, "max_markers": 1376581275148, "min_markers": 496400000, "result_markers": 1376580075148}
+{"price_coefficient": 2.4, "description": "Погашений борг", "avg_markers": 601462854.8362594, "max_markers": 1200000000, "min_markers": 0, "result_markers": 1200000000}
+{"price_coefficient": 2.4, "description": "Затримка процентної ставки", "avg_markers": 0.00022924949310085168, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.4, "description": "Процентна ставка готова до дії", "avg_markers": 0.00022924949310085168, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.5, "description": "Потік покупців", "avg_markers": 0.010579326951076305, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.5, "description": "Покупець надійшов", "avg_markers": 0.010579326951076305, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.5, "description": "Черга покупців", "avg_markers": 0.0016312134088812978, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.5, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 9421.418709345407, "max_markers": 18982, "min_markers": 0, "result_markers": 18982}
+{"price_coefficient": 2.5, "description": "Запас товару", "avg_markers": 499.1764373579108, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.5, "description": "Продавець", "avg_markers": 0.9506929877412803, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.5, "description": "Кількість обслугованих покупців", "avg_markers": 500.7742556298305, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 2.5, "description": "Прибуток", "avg_markers": 413958.7871099727, "max_markers": 1250000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.5, "description": "Богр", "avg_markers": 195820706435.28223, "max_markers": 1652481720779, "min_markers": 496250000, "result_markers": 1652479220779}
+{"price_coefficient": 2.5, "description": "Погашений борг", "avg_markers": 625553860.7501781, "max_markers": 1250000000, "min_markers": 0, "result_markers": 1250000000}
+{"price_coefficient": 2.5, "description": "Затримка процентної ставки", "avg_markers": 0.00022660153813735653, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.5, "description": "Процентна ставка готова до дії", "avg_markers": 0.00022660153813735653, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.6, "description": "Потік покупців", "avg_markers": 0.010204012908366452, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.6, "description": "Покупець надійшов", "avg_markers": 0.010204012908366452, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.6, "description": "Черга покупців", "avg_markers": 0.0016340097843718414, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.6, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 9265.836147777896, "max_markers": 18696, "min_markers": 0, "result_markers": 18696}
+{"price_coefficient": 2.6, "description": "Запас товару", "avg_markers": 498.2277749542669, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.6, "description": "Продавець", "avg_markers": 0.9457632053531694, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.6, "description": "Кількість обслугованих покупців", "avg_markers": 501.7179882510863, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 2.6, "description": "Прибуток", "avg_markers": 438110.45470959024, "max_markers": 1300000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.6, "description": "Богр", "avg_markers": 168299236572.71478, "max_markers": 1494915633425, "min_markers": 496100000, "result_markers": 1494914333425}
+{"price_coefficient": 2.6, "description": "Погашений борг", "avg_markers": 651795274.2717025, "max_markers": 1300000000, "min_markers": 0, "result_markers": 1300000000}
+{"price_coefficient": 2.6, "description": "Затримка процентної ставки", "avg_markers": 0.00021862781515691727, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.6, "description": "Процентна ставка готова до дії", "avg_markers": 0.00021862781515691727, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.7, "description": "Потік покупців", "avg_markers": 0.010204700304640171, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.7, "description": "Покупець надійшов", "avg_markers": 0.010204700304640171, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.7, "description": "Черга покупців", "avg_markers": 0.00153512804329568, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.7, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 9955.082737388244, "max_markers": 19534, "min_markers": 0, "result_markers": 19534}
+{"price_coefficient": 2.7, "description": "Запас товару", "avg_markers": 503.09093136402265, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.7, "description": "Продавець", "avg_markers": 0.9524905452214232, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.7, "description": "Кількість обслугованих покупців", "avg_markers": 496.8615591811988, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 2.7, "description": "Прибуток", "avg_markers": 453197.7512287485, "max_markers": 1350000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.7, "description": "Богр", "avg_markers": 271281194370.59805, "max_markers": 2309974600707, "min_markers": 497300000, "result_markers": 2309971900707}
+{"price_coefficient": 2.7, "description": "Погашений борг", "avg_markers": 670309907.1433896, "max_markers": 1350000000, "min_markers": 0, "result_markers": 1350000000}
+{"price_coefficient": 2.7, "description": "Затримка процентної ставки", "avg_markers": 0.00022065291396027254, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.7, "description": "Процентна ставка готова до дії", "avg_markers": 0.00022065291396027254, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.8, "description": "Потік покупців", "avg_markers": 0.01007944649747613, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.8, "description": "Покупець надійшов", "avg_markers": 0.01007944649747613, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.8, "description": "Черга покупців", "avg_markers": 0.0016034047943794857, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.8, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 9919.80586221502, "max_markers": 19751, "min_markers": 0, "result_markers": 19751}
+{"price_coefficient": 2.8, "description": "Запас товару", "avg_markers": 501.24539767936176, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.8, "description": "Продавець", "avg_markers": 0.9478604430662578, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.8, "description": "Кількість обслугованих покупців", "avg_markers": 498.7024627637045, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 2.8, "description": "Прибуток", "avg_markers": 476359.76109705726, "max_markers": 1400000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.8, "description": "Богр", "avg_markers": 250171192839.34473, "max_markers": 2093005347134, "min_markers": 493000000, "result_markers": 2093002547134}
+{"price_coefficient": 2.8, "description": "Погашений борг", "avg_markers": 697707088.1080892, "max_markers": 1400000000, "min_markers": 0, "result_markers": 1400000000}
+{"price_coefficient": 2.8, "description": "Затримка процентної ставки", "avg_markers": 0.0002142082745596344, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.8, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002142082745596344, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.9, "description": "Потік покупців", "avg_markers": 0.00903271678814102, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.9, "description": "Покупець надійшов", "avg_markers": 0.00903271678814102, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.9, "description": "Черга покупців", "avg_markers": 0.0008123862708189285, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.9, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 8676.95662817095, "max_markers": 17446, "min_markers": 0, "result_markers": 17446}
+{"price_coefficient": 2.9, "description": "Запас товару", "avg_markers": 499.2788247772426, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.9, "description": "Продавець", "avg_markers": 0.9488916485320243, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 2.9, "description": "Кількість обслугованих покупців", "avg_markers": 500.6700668712894, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 2.9, "description": "Прибуток", "avg_markers": 515138.49202696007, "max_markers": 1450000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.9, "description": "Богр", "avg_markers": 100258361599.80255, "max_markers": 804135365418, "min_markers": 494200000, "result_markers": 804133915418}
+{"price_coefficient": 2.9, "description": "Погашений борг", "avg_markers": 725456458.4713427, "max_markers": 1450000000, "min_markers": 0, "result_markers": 1450000000}
+{"price_coefficient": 2.9, "description": "Затримка процентної ставки", "avg_markers": 0.000194404671196573, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 2.9, "description": "Процентна ставка готова до дії", "avg_markers": 0.000194404671196573, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.0, "description": "Потік покупців", "avg_markers": 0.014302564228655895, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.0, "description": "Покупець надійшов", "avg_markers": 0.014302564228655895, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.0, "description": "Черга покупців", "avg_markers": 0.00047729452109280195, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.0, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 19137.593192478416, "max_markers": 38555, "min_markers": 0, "result_markers": 38555}
+{"price_coefficient": 3.0, "description": "Запас товару", "avg_markers": 497.27457235134085, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.0, "description": "Продавець", "avg_markers": 0.9732469189192317, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 3.0, "description": "Кількість обслугованих покупців", "avg_markers": 502.6986745675784, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 3.0, "description": "Прибуток", "avg_markers": 407057.9196901346, "max_markers": 1500000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.0, "description": "Богр", "avg_markers": 483730111133600.94, "max_markers": 8001666301430544, "min_markers": 498500000, "result_markers": 8001666298430544}
+{"price_coefficient": 3.0, "description": "Погашений борг", "avg_markers": 753640953.9316775, "max_markers": 1500000000, "min_markers": 0, "result_markers": 1500000000}
+{"price_coefficient": 3.0, "description": "Затримка процентної ставки", "avg_markers": 0.00030698715788468855, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.0, "description": "Процентна ставка готова до дії", "avg_markers": 0.00030698715788468855, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.1, "description": "Потік покупців", "avg_markers": 0.013980068336928182, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.1, "description": "Покупець надійшов", "avg_markers": 0.013980068336928182, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.1, "description": "Черга покупців", "avg_markers": 0.0004571612306029606, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.1, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 19475.86274398015, "max_markers": 38479, "min_markers": 0, "result_markers": 38479}
+{"price_coefficient": 3.1, "description": "Запас товару", "avg_markers": 505.76535164055724, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.1, "description": "Продавець", "avg_markers": 0.9782237568737963, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 3.1, "description": "Кількість обслугованих покупців", "avg_markers": 494.21287211631653, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 3.1, "description": "Прибуток", "avg_markers": 425656.67722752783, "max_markers": 1550000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.1, "description": "Богр", "avg_markers": 604230102779134.1, "max_markers": 9129483491093744, "min_markers": 500000000, "result_markers": 9129483489543744}
+{"price_coefficient": 3.1, "description": "Погашений борг", "avg_markers": 765604295.1030631, "max_markers": 1550000000, "min_markers": 0, "result_markers": 1550000000}
+{"price_coefficient": 3.1, "description": "Затримка процентної ставки", "avg_markers": 0.00030276750748685615, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.1, "description": "Процентна ставка готова до дії", "avg_markers": 0.00030276750748685615, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.2, "description": "Потік покупців", "avg_markers": 0.013306766958660992, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.2, "description": "Покупець надійшов", "avg_markers": 0.013306766958660992, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.2, "description": "Черга покупців", "avg_markers": 0.0005201807628150782, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.2, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 17927.536785104254, "max_markers": 36246, "min_markers": 0, "result_markers": 36246}
+{"price_coefficient": 3.2, "description": "Запас товару", "avg_markers": 496.5965412266477, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.2, "description": "Продавець", "avg_markers": 0.9731628169360281, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 3.2, "description": "Кількість обслугованих покупців", "avg_markers": 503.3766215902883, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 3.2, "description": "Прибуток", "avg_markers": 457587.58311370347, "max_markers": 1600000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.2, "description": "Богр", "avg_markers": 203553492950807.62, "max_markers": 3323986271586272, "min_markers": 498400000, "result_markers": 3323986269986272}
+{"price_coefficient": 3.2, "description": "Погашений борг", "avg_markers": 804945006.9613477, "max_markers": 1600000000, "min_markers": 0, "result_markers": 1600000000}
+{"price_coefficient": 3.2, "description": "Затримка процентної ставки", "avg_markers": 0.0002875999409794904, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.2, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002875999409794904, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.3, "description": "Потік покупців", "avg_markers": 0.013256266119229138, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.3, "description": "Покупець надійшов", "avg_markers": 0.013256266119229138, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.3, "description": "Черга покупців", "avg_markers": 0.0011010927754184865, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.3, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 18767.96010591928, "max_markers": 37092, "min_markers": 0, "result_markers": 37092}
+{"price_coefficient": 3.3, "description": "Запас товару", "avg_markers": 504.3534594810735, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.3, "description": "Продавець", "avg_markers": 0.9727576979922458, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 3.3, "description": "Кількість обслугованих покупців", "avg_markers": 495.61929821691876, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 3.3, "description": "Прибуток", "avg_markers": 474011.0436403714, "max_markers": 1650000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.3, "description": "Богр", "avg_markers": 296272406372401.06, "max_markers": 4626971432742576, "min_markers": 500000000, "result_markers": 4626971429442576}
+{"price_coefficient": 3.3, "description": "Погашений борг", "avg_markers": 817297831.0142756, "max_markers": 1650000000, "min_markers": 0, "result_markers": 1650000000}
+{"price_coefficient": 3.3, "description": "Затримка процентної ставки", "avg_markers": 0.00028571339084025837, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.3, "description": "Процентна ставка готова до дії", "avg_markers": 0.00028571339084025837, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.4, "description": "Потік покупців", "avg_markers": 0.01311648918829515, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.4, "description": "Покупець надійшов", "avg_markers": 0.01311648918829515, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.4, "description": "Черга покупців", "avg_markers": 0.00048507372060095774, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.4, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 18719.43783547654, "max_markers": 37343, "min_markers": 0, "result_markers": 37343}
+{"price_coefficient": 3.4, "description": "Запас товару", "avg_markers": 498.2962175538533, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.4, "description": "Продавець", "avg_markers": 0.973930195223358, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 3.4, "description": "Кількість обслугованих покупців", "avg_markers": 501.6777126413701, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 3.4, "description": "Прибуток", "avg_markers": 494601.3138724585, "max_markers": 1700000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.4, "description": "Богр", "avg_markers": 263455539436526.47, "max_markers": 4554418979342770, "min_markers": 500000000, "result_markers": 4554418977642770}
+{"price_coefficient": 3.4, "description": "Погашений борг", "avg_markers": 852357510.1764567, "max_markers": 1700000000, "min_markers": 0, "result_markers": 1700000000}
+{"price_coefficient": 3.4, "description": "Затримка процентної ставки", "avg_markers": 0.00028085015840154185, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.4, "description": "Процентна ставка готова до дії", "avg_markers": 0.00028085015840154185, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.5, "description": "Потік покупців", "avg_markers": 0.013098859063076944, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.5, "description": "Покупець надійшов", "avg_markers": 0.013098859063076944, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.5, "description": "Черга покупців", "avg_markers": 0.0010336835394280704, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.5, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 18818.6251128983, "max_markers": 38448, "min_markers": 0, "result_markers": 38448}
+{"price_coefficient": 3.5, "description": "Запас товару", "avg_markers": 493.2091042516171, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.5, "description": "Продавець", "avg_markers": 0.9760824954508627, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 3.5, "description": "Кількість обслугованих покупців", "avg_markers": 506.76697824383376, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 3.5, "description": "Прибуток", "avg_markers": 508749.1193932713, "max_markers": 1750000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.5, "description": "Богр", "avg_markers": 410975274895808.94, "max_markers": 7295903115797073, "min_markers": 498250000, "result_markers": 7295903112297073}
+{"price_coefficient": 3.5, "description": "Погашений борг", "avg_markers": 886333462.8073158, "max_markers": 1750000000, "min_markers": 0, "result_markers": 1750000000}
+{"price_coefficient": 3.5, "description": "Затримка процентної ставки", "avg_markers": 0.0002809175311134429, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.5, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002809175311134429, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.6, "description": "Потік покупців", "avg_markers": 0.013094458355755166, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.6, "description": "Покупець надійшов", "avg_markers": 0.013094458355755166, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.6, "description": "Черга покупців", "avg_markers": 0.00042643179883523755, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.6, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 19495.701958067646, "max_markers": 39564, "min_markers": 0, "result_markers": 39564}
+{"price_coefficient": 3.6, "description": "Запас товару", "avg_markers": 494.9961776086828, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.6, "description": "Продавець", "avg_markers": 0.9780363412861841, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 3.6, "description": "Кількість обслугованих покупців", "avg_markers": 504.98185873260337, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 3.6, "description": "Прибуток", "avg_markers": 523243.0509532736, "max_markers": 1800000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.6, "description": "Богр", "avg_markers": 688761628528579.6, "max_markers": 11948156857417064, "min_markers": 500000000, "result_markers": 11948156855617064}
+{"price_coefficient": 3.6, "description": "Погашений борг", "avg_markers": 908444102.6677328, "max_markers": 1800000000, "min_markers": 0, "result_markers": 1800000000}
+{"price_coefficient": 3.6, "description": "Затримка процентної ставки", "avg_markers": 0.00028116737076872966, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.6, "description": "Процентна ставка готова до дії", "avg_markers": 0.00028116737076872966, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.7, "description": "Потік покупців", "avg_markers": 0.012529783899234186, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.7, "description": "Покупець надійшов", "avg_markers": 0.012529783899234186, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.7, "description": "Черга покупців", "avg_markers": 0.001032021244629965, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.7, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 19154.530984513185, "max_markers": 37572, "min_markers": 0, "result_markers": 37572}
+{"price_coefficient": 3.7, "description": "Запас товару", "avg_markers": 505.96529264152935, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.7, "description": "Продавець", "avg_markers": 0.9740464685675305, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 3.7, "description": "Кількість обслугованих покупців", "avg_markers": 494.00875382703816, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 3.7, "description": "Прибуток", "avg_markers": 556185.3870079668, "max_markers": 1850000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.7, "description": "Богр", "avg_markers": 312670089365718.4, "max_markers": 4958574224598003, "min_markers": 498150000, "result_markers": 4958574222748003}
+{"price_coefficient": 3.7, "description": "Погашений борг", "avg_markers": 913360009.1930127, "max_markers": 1850000000, "min_markers": 0, "result_markers": 1850000000}
+{"price_coefficient": 3.7, "description": "Затримка процентної ставки", "avg_markers": 0.0002676693439015081, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.7, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002676693439015081, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.8, "description": "Потік покупців", "avg_markers": 0.01297079764098287, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.8, "description": "Покупець надійшов", "avg_markers": 0.01297079764098287, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.8, "description": "Черга покупців", "avg_markers": 0.00041639799810538913, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.8, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 21256.025959047256, "max_markers": 41364, "min_markers": 0, "result_markers": 41364}
+{"price_coefficient": 3.8, "description": "Запас товару", "avg_markers": 508.79094830357616, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.8, "description": "Продавець", "avg_markers": 0.9768219402554602, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 3.8, "description": "Кількість обслугованих покупців", "avg_markers": 491.1858736366793, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 3.8, "description": "Прибуток", "avg_markers": 552937.3204666352, "max_markers": 1900000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.8, "description": "Богр", "avg_markers": 1932567903889086.2, "max_markers": 32354620204323040, "min_markers": 500000000, "result_markers": 32354620202423040}
+{"price_coefficient": 3.8, "description": "Погашений борг", "avg_markers": 932700222.589224, "max_markers": 1900000000, "min_markers": 0, "result_markers": 1900000000}
+{"price_coefficient": 3.8, "description": "Затримка процентної ставки", "avg_markers": 0.00028076247372253076, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.8, "description": "Процентна ставка готова до дії", "avg_markers": 0.00028076247372253076, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.9, "description": "Потік покупців", "avg_markers": 0.012496398953091384, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.9, "description": "Покупець надійшов", "avg_markers": 0.012496398953091384, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.9, "description": "Черга покупців", "avg_markers": 0.00043488387772990005, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.9, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 19790.17110336077, "max_markers": 39775, "min_markers": 0, "result_markers": 39775}
+{"price_coefficient": 3.9, "description": "Запас товару", "avg_markers": 497.91099131458134, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.9, "description": "Продавець", "avg_markers": 0.9711097966864239, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 3.9, "description": "Кількість обслугованих покупців", "avg_markers": 502.0601184821051, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 3.9, "description": "Прибуток", "avg_markers": 582979.4449177736, "max_markers": 1950000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.9, "description": "Богр", "avg_markers": 835579779594720.0, "max_markers": 14311124903638380, "min_markers": 498050000, "result_markers": 14311124899738380}
+{"price_coefficient": 3.9, "description": "Погашений борг", "avg_markers": 978434251.5951872, "max_markers": 1950000000, "min_markers": 0, "result_markers": 1950000000}
+{"price_coefficient": 3.9, "description": "Затримка процентної ставки", "avg_markers": 0.00027000190012687946, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 3.9, "description": "Процентна ставка готова до дії", "avg_markers": 0.00027000190012687946, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.0, "description": "Потік покупців", "avg_markers": 0.016385509635609117, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.0, "description": "Покупець надійшов", "avg_markers": 0.016385509635609117, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.0, "description": "Черга покупців", "avg_markers": 0.00028020957686695846, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.0, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 34382.912795842574, "max_markers": 68177, "min_markers": 0, "result_markers": 68177}
+{"price_coefficient": 4.0, "description": "Запас товару", "avg_markers": 503.3042545430428, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.0, "description": "Продавець", "avg_markers": 0.9867868038580334, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 4.0, "description": "Кількість обслугованих покупців", "avg_markers": 496.6825322608152, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 4.0, "description": "Прибуток", "avg_markers": 473964.906059917, "max_markers": 2000000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.0, "description": "Богр", "avg_markers": 9.567170530683068e+19, "max_markers": 2933904539481641320448, "min_markers": 498000000, "result_markers": 2933904539481639320448}
+{"price_coefficient": 4.0, "description": "Погашений борг", "avg_markers": 992891099.6155704, "max_markers": 2000000000, "min_markers": 0, "result_markers": 2000000000}
+{"price_coefficient": 4.0, "description": "Затримка процентної ставки", "avg_markers": 0.0003534004130900271, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.0, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003534004130900271, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.1, "description": "Потік покупців", "avg_markers": 0.015252386496505954, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.1, "description": "Покупець надійшов", "avg_markers": 0.015252386496505954, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.1, "description": "Черга покупців", "avg_markers": 0.0008521332000368976, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.1, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 30308.768064949603, "max_markers": 60179, "min_markers": 0, "result_markers": 60179}
+{"price_coefficient": 4.1, "description": "Запас товару", "avg_markers": 501.3618427318124, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.1, "description": "Продавець", "avg_markers": 0.9813161444089042, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 4.1, "description": "Кількість обслугованих покупців", "avg_markers": 498.6194734125965, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 4.1, "description": "Прибуток", "avg_markers": 524113.53690125677, "max_markers": 2050000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.1, "description": "Богр", "avg_markers": 3.2618392591526385e+18, "max_markers": 90246588289182482432, "min_markers": 500000000, "result_markers": 90246588289180432432}
+{"price_coefficient": 4.1, "description": "Погашений борг", "avg_markers": 1021645806.9589216, "max_markers": 2050000000, "min_markers": 0, "result_markers": 2050000000}
+{"price_coefficient": 4.1, "description": "Затримка процентної ставки", "avg_markers": 0.0003283380410908701, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.1, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003283380410908701, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.2, "description": "Потік покупців", "avg_markers": 0.01572691484169648, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.2, "description": "Покупець надійшов", "avg_markers": 0.01572691484169648, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.2, "description": "Черга покупців", "avg_markers": 0.00028212251429660557, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.2, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 32674.10420511156, "max_markers": 65671, "min_markers": 0, "result_markers": 65671}
+{"price_coefficient": 4.2, "description": "Запас товару", "avg_markers": 498.0130854366518, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.2, "description": "Продавець", "avg_markers": 0.9855237654014478, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 4.2, "description": "Кількість обслугованих покупців", "avg_markers": 501.9724383287496, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 4.2, "description": "Прибуток", "avg_markers": 520382.57299035473, "max_markers": 2100000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.2, "description": "Богр", "avg_markers": 3.3863855419228987e+19, "max_markers": 985155877735781629952, "min_markers": 500000000, "result_markers": 985155877735779529952}
+{"price_coefficient": 4.2, "description": "Погашений борг", "avg_markers": 1053621737.9173839, "max_markers": 2100000000, "min_markers": 0, "result_markers": 2100000000}
+{"price_coefficient": 4.2, "description": "Затримка процентної ставки", "avg_markers": 0.0003387357278678308, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.2, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003387357278678308, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.3, "description": "Потік покупців", "avg_markers": 0.01548779016608467, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.3, "description": "Покупець надійшов", "avg_markers": 0.01548779016608467, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.3, "description": "Черга покупців", "avg_markers": 0.00026456542102000214, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.3, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 32602.475545165464, "max_markers": 65502, "min_markers": 0, "result_markers": 65502}
+{"price_coefficient": 4.3, "description": "Запас товару", "avg_markers": 496.00986437761685, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.3, "description": "Продавець", "avg_markers": 0.9870470074064345, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 4.3, "description": "Кількість обслугованих покупців", "avg_markers": 503.9771826297896, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 4.3, "description": "Прибуток", "avg_markers": 538522.7165279328, "max_markers": 2150000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.3, "description": "Богр", "avg_markers": 3.675057780591069e+19, "max_markers": 1027827132706246492160, "min_markers": 497850000, "result_markers": 1027827132706244342160}
+{"price_coefficient": 4.3, "description": "Погашений борг", "avg_markers": 1083012419.9375198, "max_markers": 2150000000, "min_markers": 0, "result_markers": 2150000000}
+{"price_coefficient": 4.3, "description": "Затримка процентної ставки", "avg_markers": 0.00033536461819436896, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.3, "description": "Процентна ставка готова до дії", "avg_markers": 0.00033536461819436896, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.4, "description": "Потік покупців", "avg_markers": 0.015152496670365612, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.4, "description": "Покупець надійшов", "avg_markers": 0.015152496670365612, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.4, "description": "Черга покупців", "avg_markers": 0.00028928939346280804, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.4, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 31837.935853058763, "max_markers": 63792, "min_markers": 0, "result_markers": 63792}
+{"price_coefficient": 4.4, "description": "Запас товару", "avg_markers": 496.44106506204986, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.4, "description": "Продавець", "avg_markers": 0.9837845928257634, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 4.4, "description": "Кількість обслугованих покупців", "avg_markers": 503.54271953077586, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 4.4, "description": "Прибуток", "avg_markers": 566210.483641819, "max_markers": 2200000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.4, "description": "Богр", "avg_markers": 1.4393190044698667e+19, "max_markers": 396941374754017378304, "min_markers": 497800000, "result_markers": 396941374754015178304}
+{"price_coefficient": 4.4, "description": "Погашений борг", "avg_markers": 1107227772.484065, "max_markers": 2200000000, "min_markers": 0, "result_markers": 2200000000}
+{"price_coefficient": 4.4, "description": "Затримка процентної ставки", "avg_markers": 0.0003260059939265598, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.4, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003260059939265598, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.5, "description": "Потік покупців", "avg_markers": 0.015163292163596914, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.5, "description": "Покупець надійшов", "avg_markers": 0.015163292163596914, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.5, "description": "Черга покупців", "avg_markers": 0.0002892268147727104, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.5, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 32714.344601308712, "max_markers": 65425, "min_markers": 0, "result_markers": 65425}
+{"price_coefficient": 4.5, "description": "Запас товару", "avg_markers": 500.5059419332085, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.5, "description": "Продавець", "avg_markers": 0.9829844691820496, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 4.5, "description": "Кількість обслугованих покупців", "avg_markers": 499.47704253597357, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 4.5, "description": "Прибуток", "avg_markers": 578082.6796054005, "max_markers": 2250000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.5, "description": "Богр", "avg_markers": 3.0893017557527814e+19, "max_markers": 832082014586493992960, "min_markers": 497750000, "result_markers": 832082014586491742960}
+{"price_coefficient": 4.5, "description": "Погашений борг", "avg_markers": 1123245263.0263352, "max_markers": 2250000000, "min_markers": 0, "result_markers": 2250000000}
+{"price_coefficient": 4.5, "description": "Затримка процентної ставки", "avg_markers": 0.00032643594721781837, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.5, "description": "Процентна ставка готова до дії", "avg_markers": 0.00032643594721781837, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.6, "description": "Потік покупців", "avg_markers": 0.015725083220967696, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.6, "description": "Покупець надійшов", "avg_markers": 0.015725083220967696, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.6, "description": "Черга покупців", "avg_markers": 0.00028036635974344217, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.6, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 36030.25168322179, "max_markers": 71970, "min_markers": 0, "result_markers": 71970}
+{"price_coefficient": 4.6, "description": "Запас товару", "avg_markers": 501.38041512754296, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.6, "description": "Продавець", "avg_markers": 0.9832025854907284, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 4.6, "description": "Кількість обслугованих покупців", "avg_markers": 498.6027874579477, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 4.6, "description": "Прибуток", "avg_markers": 570247.0736626514, "max_markers": 2300000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.6, "description": "Богр", "avg_markers": 4.66771684121698e+20, "max_markers": 13935943972166821740544, "min_markers": 500000000, "result_markers": 13935943972166817140544}
+{"price_coefficient": 4.6, "description": "Погашений борг", "avg_markers": 1146216164.0796173, "max_markers": 2300000000, "min_markers": 0, "result_markers": 2300000000}
+{"price_coefficient": 4.6, "description": "Затримка процентної ставки", "avg_markers": 0.0003385515381682918, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.6, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003385515381682918, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.7, "description": "Потік покупців", "avg_markers": 0.0142949545424283, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.7, "description": "Покупець надійшов", "avg_markers": 0.0142949545424283, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.7, "description": "Черга покупців", "avg_markers": 0.0002508211213114269, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.7, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 30568.59202569148, "max_markers": 60837, "min_markers": 0, "result_markers": 60837}
+{"price_coefficient": 4.7, "description": "Запас товару", "avg_markers": 502.46031177643306, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.7, "description": "Продавець", "avg_markers": 0.9866553916600705, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 4.7, "description": "Кількість обслугованих покупців", "avg_markers": 497.526343615227, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 4.7, "description": "Прибуток", "avg_markers": 638595.1289382384, "max_markers": 2350000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.7, "description": "Богр", "avg_markers": 3.93390622000657e+18, "max_markers": 100666476660053573632, "min_markers": 497650000, "result_markers": 100666476660046523632}
+{"price_coefficient": 4.7, "description": "Погашений борг", "avg_markers": 1168548312.3668451, "max_markers": 2350000000, "min_markers": 0, "result_markers": 2350000000}
+{"price_coefficient": 4.7, "description": "Затримка процентної ставки", "avg_markers": 0.00030653346254281297, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.7, "description": "Процентна ставка готова до дії", "avg_markers": 0.00030653346254281297, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.8, "description": "Потік покупців", "avg_markers": 0.0148151043874302, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.8, "description": "Покупець надійшов", "avg_markers": 0.0148151043874302, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.8, "description": "Черга покупців", "avg_markers": 0.0002835290071477421, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.8, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 33523.4431393667, "max_markers": 66458, "min_markers": 0, "result_markers": 66458}
+{"price_coefficient": 4.8, "description": "Запас товару", "avg_markers": 503.0383954498316, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.8, "description": "Продавець", "avg_markers": 0.9835120525084301, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 4.8, "description": "Кількість обслугованих покупців", "avg_markers": 496.9451166026768, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 4.8, "description": "Прибуток", "avg_markers": 632768.7497007682, "max_markers": 2400000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.8, "description": "Богр", "avg_markers": 3.5980337029552222e+19, "max_markers": 1144870991488828702720, "min_markers": 500000000, "result_markers": 1144870991488821502720}
+{"price_coefficient": 4.8, "description": "Погашений борг", "avg_markers": 1192035511.0967236, "max_markers": 2400000000, "min_markers": 0, "result_markers": 2400000000}
+{"price_coefficient": 4.8, "description": "Затримка процентної ставки", "avg_markers": 0.00031735043789968037, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.8, "description": "Процентна ставка готова до дії", "avg_markers": 0.00031735043789968037, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.9, "description": "Потік покупців", "avg_markers": 0.014652283004864746, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.9, "description": "Покупець надійшов", "avg_markers": 0.014652283004864746, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.9, "description": "Черга покупців", "avg_markers": 0.0002547807255337678, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.9, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 32874.689703380456, "max_markers": 66401, "min_markers": 0, "result_markers": 66401}
+{"price_coefficient": 4.9, "description": "Запас товару", "avg_markers": 494.1733219797941, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.9, "description": "Продавець", "avg_markers": 0.9850611973737585, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 4.9, "description": "Кількість обслугованих покупців", "avg_markers": 505.8117392175797, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 4.9, "description": "Прибуток", "avg_markers": 652708.7293267832, "max_markers": 2450000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.9, "description": "Богр", "avg_markers": 3.635543740393008e+19, "max_markers": 1057610311085502103552, "min_markers": 500000000, "result_markers": 1057610311085497203552}
+{"price_coefficient": 4.9, "description": "Погашений борг", "avg_markers": 1238586052.3537436, "max_markers": 2450000000, "min_markers": 0, "result_markers": 2450000000}
+{"price_coefficient": 4.9, "description": "Затримка процентної ставки", "avg_markers": 0.00031369333357101275, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 4.9, "description": "Процентна ставка готова до дії", "avg_markers": 0.00031369333357101275, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.0, "description": "Потік покупців", "avg_markers": 0.014007719232879712, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.0, "description": "Покупець надійшов", "avg_markers": 0.014007719232879712, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.0, "description": "Черга покупців", "avg_markers": 0.0002719345450018563, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.0, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 31444.78963942627, "max_markers": 62462, "min_markers": 0, "result_markers": 62462}
+{"price_coefficient": 5.0, "description": "Запас товару", "avg_markers": 502.0391680657022, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.0, "description": "Продавець", "avg_markers": 0.9813947770026368, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 5.0, "description": "Кількість обслугованих покупців", "avg_markers": 497.9422267113004, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 5.0, "description": "Прибуток", "avg_markers": 690045.4958412996, "max_markers": 2500000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.0, "description": "Богр", "avg_markers": 7.727878277431975e+18, "max_markers": 214500147194018955264, "min_markers": 495000000, "result_markers": 214500147194016455264}
+{"price_coefficient": 5.0, "description": "Погашений борг", "avg_markers": 1244165521.2824097, "max_markers": 2500000000, "min_markers": 0, "result_markers": 2500000000}
+{"price_coefficient": 5.0, "description": "Затримка процентної ставки", "avg_markers": 0.0003008496630174758, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.0, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003008496630174758, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.1, "description": "Потік покупців", "avg_markers": 0.013712819227359438, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.1, "description": "Покупець надійшов", "avg_markers": 0.013712819227359438, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.1, "description": "Черга покупців", "avg_markers": 0.0008457196991230898, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.1, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 30531.2226123893, "max_markers": 61474, "min_markers": 0, "result_markers": 61474}
+{"price_coefficient": 5.1, "description": "Запас товару", "avg_markers": 497.27451341485283, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.1, "description": "Продавець", "avg_markers": 0.9845814741072147, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 5.1, "description": "Кількість обслугованих покупців", "avg_markers": 502.71006805925435, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 5.1, "description": "Прибуток", "avg_markers": 713918.7066480856, "max_markers": 2550000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.1, "description": "Богр", "avg_markers": 6.11444705612858e+18, "max_markers": 157047413765601656832, "min_markers": 500000000, "result_markers": 157047413765596556832}
+{"price_coefficient": 5.1, "description": "Погашений борг", "avg_markers": 1281196754.8444505, "max_markers": 2550000000, "min_markers": 0, "result_markers": 2550000000}
+{"price_coefficient": 5.1, "description": "Затримка процентної ставки", "avg_markers": 0.0002956616752449525, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.1, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002956616752449525, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.2, "description": "Потік покупців", "avg_markers": 0.014052502617419494, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.2, "description": "Покупець надійшов", "avg_markers": 0.014052502617419494, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.2, "description": "Черга покупців", "avg_markers": 0.0002565515990727704, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.2, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 33001.23150551088, "max_markers": 65332, "min_markers": 0, "result_markers": 65332}
+{"price_coefficient": 5.2, "description": "Запас товару", "avg_markers": 504.4225534065858, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.2, "description": "Продавець", "avg_markers": 0.9844706838424184, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 5.2, "description": "Кількість обслугованих покупців", "avg_markers": 495.56191727725667, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 5.2, "description": "Прибуток", "avg_markers": 716332.4432059162, "max_markers": 2600000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.2, "description": "Богр", "avg_markers": 2.689544939520681e+19, "max_markers": 719994430538353868800, "min_markers": 497400000, "result_markers": 719994430538351268800}
+{"price_coefficient": 5.2, "description": "Погашений борг", "avg_markers": 1287744652.4776614, "max_markers": 2600000000, "min_markers": 0, "result_markers": 2600000000}
+{"price_coefficient": 5.2, "description": "Затримка процентної ставки", "avg_markers": 0.00030146401773786314, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.2, "description": "Процентна ставка готова до дії", "avg_markers": 0.00030146401773786314, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.3, "description": "Потік покупців", "avg_markers": 0.013935138363868959, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.3, "description": "Покупець надійшов", "avg_markers": 0.013935138363868959, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.3, "description": "Черга покупців", "avg_markers": 0.0008130015033212888, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.3, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 33167.37095670213, "max_markers": 65676, "min_markers": 0, "result_markers": 65676}
+{"price_coefficient": 5.3, "description": "Запас товару", "avg_markers": 503.7930399129399, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.3, "description": "Продавець", "avg_markers": 0.9861066611992838, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 5.3, "description": "Кількість обслугованих покупців", "avg_markers": 496.1930667482594, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 5.3, "description": "Прибуток", "avg_markers": 734122.1640302637, "max_markers": 2650000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.3, "description": "Богр", "avg_markers": 3.494172519045038e+19, "max_markers": 870548432335432581120, "min_markers": 492050000, "result_markers": 870548432335427281120}
+{"price_coefficient": 5.3, "description": "Погашений борг", "avg_markers": 1314177504.7188573, "max_markers": 2650000000, "min_markers": 0, "result_markers": 2650000000}
+{"price_coefficient": 5.3, "description": "Затримка процентної ставки", "avg_markers": 0.0002994938699895647, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.3, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002994938699895647, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.4, "description": "Потік покупців", "avg_markers": 0.013871374008269172, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.4, "description": "Покупець надійшов", "avg_markers": 0.013871374008269172, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.4, "description": "Черга покупців", "avg_markers": 0.00025488865747531447, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.4, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 33760.70803522607, "max_markers": 66428, "min_markers": 0, "result_markers": 66428}
+{"price_coefficient": 5.4, "description": "Запас товару", "avg_markers": 505.5872165623728, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.4, "description": "Продавець", "avg_markers": 0.9834242141344504, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 5.4, "description": "Кількість обслугованих покупців", "avg_markers": 494.3962076517616, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 5.4, "description": "Прибуток", "avg_markers": 750131.7644754745, "max_markers": 2700000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.4, "description": "Богр", "avg_markers": 4.580090167243652e+19, "max_markers": 1247971807825859444736, "min_markers": 500000000, "result_markers": 1247971807825856744736}
+{"price_coefficient": 5.4, "description": "Погашений борг", "avg_markers": 1334119628.8952808, "max_markers": 2700000000, "min_markers": 0, "result_markers": 2700000000}
+{"price_coefficient": 5.4, "description": "Затримка процентної ставки", "avg_markers": 0.0002985015673903804, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.4, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002985015673903804, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.5, "description": "Потік покупців", "avg_markers": 0.013664948378924995, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.5, "description": "Покупець надійшов", "avg_markers": 0.013664948378924995, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.5, "description": "Черга покупців", "avg_markers": 0.000276098727027739, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.5, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 33026.86063707588, "max_markers": 65964, "min_markers": 0, "result_markers": 65964}
+{"price_coefficient": 5.5, "description": "Запас товару", "avg_markers": 500.73432058184386, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.5, "description": "Продавець", "avg_markers": 0.980619624313911, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 5.5, "description": "Кількість обслугованих покупців", "avg_markers": 499.24629904247, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 5.5, "description": "Прибуток", "avg_markers": 771899.6486220266, "max_markers": 2750000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.5, "description": "Богр", "avg_markers": 3.824807075881727e+19, "max_markers": 1051503508155738882048, "min_markers": 497250000, "result_markers": 1051503508155736132048}
+{"price_coefficient": 5.5, "description": "Погашений борг", "avg_markers": 1372155422.7181706, "max_markers": 2750000000, "min_markers": 0, "result_markers": 2750000000}
+{"price_coefficient": 5.5, "description": "Затримка процентної ставки", "avg_markers": 0.0002946685601094273, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.5, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002946685601094273, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.6, "description": "Потік покупців", "avg_markers": 0.01329851665980286, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.6, "description": "Покупець надійшов", "avg_markers": 0.01329851665980286, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.6, "description": "Черга покупців", "avg_markers": 0.0002756445135990429, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.6, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 32321.96729803459, "max_markers": 63938, "min_markers": 0, "result_markers": 63938}
+{"price_coefficient": 5.6, "description": "Запас товару", "avg_markers": 504.33618329827704, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.6, "description": "Продавець", "avg_markers": 0.982556371453304, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 5.6, "description": "Кількість обслугованих покупців", "avg_markers": 495.6463730731762, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 5.6, "description": "Прибуток", "avg_markers": 803055.8450460066, "max_markers": 2800000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.6, "description": "Богр", "avg_markers": 1.6005701780261745e+19, "max_markers": 412909245158732791808, "min_markers": 500000000, "result_markers": 412909245158729991808}
+{"price_coefficient": 5.6, "description": "Погашений борг", "avg_markers": 1387006788.7598474, "max_markers": 2800000000, "min_markers": 0, "result_markers": 2800000000}
+{"price_coefficient": 5.6, "description": "Затримка процентної ставки", "avg_markers": 0.0002862934844067325, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.6, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002862934844067325, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.7, "description": "Потік покупців", "avg_markers": 0.0130063882757983, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.7, "description": "Покупець надійшов", "avg_markers": 0.0130063882757983, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.7, "description": "Черга покупців", "avg_markers": 0.00026167906104164186, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.7, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 31942.14528739893, "max_markers": 62720, "min_markers": 0, "result_markers": 62720}
+{"price_coefficient": 5.7, "description": "Запас товару", "avg_markers": 506.89049915178833, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.7, "description": "Продавець", "avg_markers": 0.98302392812113, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 5.7, "description": "Кількість обслугованих покупців", "avg_markers": 493.09252477633277, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 5.7, "description": "Прибуток", "avg_markers": 829264.9961799348, "max_markers": 2850000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.7, "description": "Богр", "avg_markers": 1.005931150248073e+19, "max_markers": 252635494131672219648, "min_markers": 497150000, "result_markers": 252635494131669369648}
+{"price_coefficient": 5.7, "description": "Погашений борг", "avg_markers": 1404484430.6163685, "max_markers": 2850000000, "min_markers": 0, "result_markers": 2850000000}
+{"price_coefficient": 5.7, "description": "Затримка процентної ставки", "avg_markers": 0.0002808661372802646, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.7, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002808661372802646, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.8, "description": "Потік покупців", "avg_markers": 0.013033906228163037, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.8, "description": "Покупець надійшов", "avg_markers": 0.013033906228163037, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.8, "description": "Черга покупців", "avg_markers": 0.0002558187726803221, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.8, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 31605.621369341265, "max_markers": 63910, "min_markers": 0, "result_markers": 63910}
+{"price_coefficient": 5.8, "description": "Запас товару", "avg_markers": 496.7932116862192, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.8, "description": "Продавець", "avg_markers": 0.9830683714825923, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 5.8, "description": "Кількість обслугованих покупців", "avg_markers": 503.1898566852634, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 5.8, "description": "Прибуток", "avg_markers": 844653.7490903775, "max_markers": 2900000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.8, "description": "Богр", "avg_markers": 1.233786594826481e+19, "max_markers": 372640701596205187072, "min_markers": 491300000, "result_markers": 372640701596199387072}
+{"price_coefficient": 5.8, "description": "Погашений борг", "avg_markers": 1458405930.6381736, "max_markers": 2900000000, "min_markers": 0, "result_markers": 2900000000}
+{"price_coefficient": 5.8, "description": "Затримка процентної ставки", "avg_markers": 0.0002803163317595994, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.8, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002803163317595994, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.9, "description": "Потік покупців", "avg_markers": 0.012845415227592655, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.9, "description": "Покупець надійшов", "avg_markers": 0.012845415227592655, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.9, "description": "Черга покупців", "avg_markers": 0.00025456249319385013, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.9, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 32107.391991871584, "max_markers": 63287, "min_markers": 0, "result_markers": 63287}
+{"price_coefficient": 5.9, "description": "Запас товару", "avg_markers": 504.43900301019147, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.9, "description": "Продавець", "avg_markers": 0.9836320712774981, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 5.9, "description": "Кількість обслугованих покупців", "avg_markers": 495.544629061086, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 5.9, "description": "Прибуток", "avg_markers": 869733.5386084783, "max_markers": 2950000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.9, "description": "Богр", "avg_markers": 1.0424486570008207e+19, "max_markers": 285992179546470350848, "min_markers": 500000000, "result_markers": 285992179546467400848}
+{"price_coefficient": 5.9, "description": "Погашений борг", "avg_markers": 1460986922.1915953, "max_markers": 2950000000, "min_markers": 0, "result_markers": 2950000000}
+{"price_coefficient": 5.9, "description": "Затримка процентної ставки", "avg_markers": 0.00027554291845707953, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 5.9, "description": "Процентна ставка готова до дії", "avg_markers": 0.00027554291845707953, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.0, "description": "Потік покупців", "avg_markers": 0.016147409044680035, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.0, "description": "Покупець надійшов", "avg_markers": 0.016147409044680035, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.0, "description": "Черга покупців", "avg_markers": 0.00018316041198538643, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.0, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 50237.41685700274, "max_markers": 99326, "min_markers": 0, "result_markers": 99326}
+{"price_coefficient": 6.0, "description": "Запас товару", "avg_markers": 505.47683737013193, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.0, "description": "Продавець", "avg_markers": 0.9919538178242764, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 6.0, "description": "Кількість обслугованих покупців", "avg_markers": 494.5151164476923, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 6.0, "description": "Прибуток", "avg_markers": 724513.7034729499, "max_markers": 3000000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.0, "description": "Богр", "avg_markers": 4.115198563886774e+25, "max_markers": 1569106973560636679097679872, "min_markers": 494000000, "result_markers": 1569106973560636679094679872}
+{"price_coefficient": 6.0, "description": "Погашений борг", "avg_markers": 1482820835.639604, "max_markers": 3000000000, "min_markers": 0, "result_markers": 3000000000}
+{"price_coefficient": 6.0, "description": "Затримка процентної ставки", "avg_markers": 0.00034732879531147975, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.0, "description": "Процентна ставка готова до дії", "avg_markers": 0.00034732879531147975, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.1, "description": "Потік покупців", "avg_markers": 0.015928216733517377, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.1, "description": "Покупець надійшов", "avg_markers": 0.015928216733517377, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.1, "description": "Черга покупців", "avg_markers": 0.00018101710353952857, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.1, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49090.68322135718, "max_markers": 97904, "min_markers": 0, "result_markers": 97904}
+{"price_coefficient": 6.1, "description": "Запас товару", "avg_markers": 500.942534155705, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.1, "description": "Продавець", "avg_markers": 0.990445872181955, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 6.1, "description": "Кількість обслугованих покупців", "avg_markers": 499.04791171647696, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 6.1, "description": "Прибуток", "avg_markers": 749316.5960152402, "max_markers": 3050000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.1, "description": "Богр", "avg_markers": 1.8362084619881512e+25, "max_markers": 752906730114426887439646720, "min_markers": 500000000, "result_markers": 752906730114426887436596720}
+{"price_coefficient": 6.1, "description": "Погашений борг", "avg_markers": 1521346814.1392395, "max_markers": 3050000000, "min_markers": 0, "result_markers": 3050000000}
+{"price_coefficient": 6.1, "description": "Затримка процентної ставки", "avg_markers": 0.0003415812069460321, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.1, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003415812069460321, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.2, "description": "Потік покупців", "avg_markers": 0.015726398788412442, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.2, "description": "Покупець надійшов", "avg_markers": 0.015726398788412442, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.2, "description": "Черга покупців", "avg_markers": 0.00017793825976381952, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.2, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 48971.05684813958, "max_markers": 96838, "min_markers": 0, "result_markers": 96838}
+{"price_coefficient": 6.2, "description": "Запас товару", "avg_markers": 504.4473383924379, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.2, "description": "Продавець", "avg_markers": 0.9899012402473518, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 6.2, "description": "Кількість обслугованих покупців", "avg_markers": 495.54256284780945, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 6.2, "description": "Прибуток", "avg_markers": 772601.8477931878, "max_markers": 3100000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.2, "description": "Богр", "avg_markers": 1.1031025084788127e+25, "max_markers": 453744654670564918005071872, "min_markers": 500000000, "result_markers": 453744654670564918001971872}
+{"price_coefficient": 6.2, "description": "Погашений борг", "avg_markers": 1535409342.980416, "max_markers": 3100000000, "min_markers": 0, "result_markers": 3100000000}
+{"price_coefficient": 6.2, "description": "Затримка процентної ставки", "avg_markers": 0.00033690929761966186, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.2, "description": "Процентна ставка готова до дії", "avg_markers": 0.00033690929761966186, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.3, "description": "Потік покупців", "avg_markers": 0.015572667929351356, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.3, "description": "Покупець надійшов", "avg_markers": 0.015572667929351356, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.3, "description": "Черга покупців", "avg_markers": 0.00017903103044963596, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.3, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49189.71094754008, "max_markers": 96595, "min_markers": 0, "result_markers": 96595}
+{"price_coefficient": 6.3, "description": "Запас товару", "avg_markers": 508.68033881861857, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.3, "description": "Продавець", "avg_markers": 0.9898625673560372, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 6.3, "description": "Кількість обслугованих покупців", "avg_markers": 491.30952374873743, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 6.3, "description": "Прибуток", "avg_markers": 791889.1922381591, "max_markers": 3150000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.3, "description": "Богр", "avg_markers": 1.1808185309763321e+25, "max_markers": 447961622674995387171864576, "min_markers": 500000000, "result_markers": 447961622674995387168714576}
+{"price_coefficient": 6.3, "description": "Погашений борг", "avg_markers": 1546833110.6162848, "max_markers": 3150000000, "min_markers": 0, "result_markers": 3150000000}
+{"price_coefficient": 6.3, "description": "Затримка процентної ставки", "avg_markers": 0.0003339678669617541, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.3, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003339678669617541, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.4, "description": "Потік покупців", "avg_markers": 0.015625657812875685, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.4, "description": "Покупець надійшов", "avg_markers": 0.015625657812875685, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.4, "description": "Черга покупців", "avg_markers": 0.00017619639692401632, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.4, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49393.59697880872, "max_markers": 99212, "min_markers": 0, "result_markers": 99212}
+{"price_coefficient": 6.4, "description": "Запас товару", "avg_markers": 497.7474524028043, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.4, "description": "Продавець", "avg_markers": 0.9915330614607336, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 6.4, "description": "Кількість обслугованих покупців", "avg_markers": 502.24408065865646, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 6.4, "description": "Прибуток", "avg_markers": 798592.1747281975, "max_markers": 3200000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.4, "description": "Богр", "avg_markers": 4.164259524421185e+25, "max_markers": 1604934594039298566798704640, "min_markers": 500000000, "result_markers": 1604934594039298566795504640}
+{"price_coefficient": 6.4, "description": "Погашений борг", "avg_markers": 1606382465.9329724, "max_markers": 3200000000, "min_markers": 0, "result_markers": 3200000000}
+{"price_coefficient": 6.4, "description": "Затримка процентної ставки", "avg_markers": 0.0003364883403203781, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.4, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003364883403203781, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.5, "description": "Потік покупців", "avg_markers": 0.015747601034915654, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.5, "description": "Покупець надійшов", "avg_markers": 0.015747601034915654, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.5, "description": "Черга покупців", "avg_markers": 0.00017423696502112757, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.5, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 51795.60903836313, "max_markers": 102124, "min_markers": 0, "result_markers": 102124}
+{"price_coefficient": 6.5, "description": "Запас товару", "avg_markers": 507.3049421757753, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.5, "description": "Продавець", "avg_markers": 0.9916309755758257, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 6.5, "description": "Кількість обслугованих покупців", "avg_markers": 492.6866887998005, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 6.5, "description": "Прибуток", "avg_markers": 806724.0197949074, "max_markers": 3250000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.5, "description": "Богр", "avg_markers": 1.0735693281941674e+26, "max_markers": 4886065646963998517188624384, "min_markers": 500000000, "result_markers": 4886065646963998517185374384}
+{"price_coefficient": 6.5, "description": "Погашений борг", "avg_markers": 1600425014.5795567, "max_markers": 3250000000, "min_markers": 0, "result_markers": 3250000000}
+{"price_coefficient": 6.5, "description": "Затримка процентної ставки", "avg_markers": 0.0003382426621575789, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.5, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003382426621575789, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.6, "description": "Потік покупців", "avg_markers": 0.015250462006167516, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.6, "description": "Покупець надійшов", "avg_markers": 0.015250462006167516, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.6, "description": "Черга покупців", "avg_markers": 0.00018520508675991135, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.6, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 48155.13661383779, "max_markers": 97483, "min_markers": 0, "result_markers": 97483}
+{"price_coefficient": 6.6, "description": "Запас товару", "avg_markers": 495.42455943333437, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.6, "description": "Продавець", "avg_markers": 0.9889135553709011, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 6.6, "description": "Кількість обслугованих покупців", "avg_markers": 504.56435412203655, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 6.6, "description": "Прибуток", "avg_markers": 843434.6964696132, "max_markers": 3300000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.6, "description": "Богр", "avg_markers": 1.8746210226308152e+25, "max_markers": 723450920702599541196587008, "min_markers": 500000000, "result_markers": 723450920702599541193287008}
+{"price_coefficient": 6.6, "description": "Погашений борг", "avg_markers": 1664218933.906251, "max_markers": 3300000000, "min_markers": 0, "result_markers": 3300000000}
+{"price_coefficient": 6.6, "description": "Затримка процентної ставки", "avg_markers": 0.0003282899531195753, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.6, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003282899531195753, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.7, "description": "Потік покупців", "avg_markers": 0.015466255134655148, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.7, "description": "Покупець надійшов", "avg_markers": 0.015466255134655148, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.7, "description": "Черга покупців", "avg_markers": 0.0001702308242446724, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.7, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 50412.44144867035, "max_markers": 101484, "min_markers": 0, "result_markers": 101484}
+{"price_coefficient": 6.7, "description": "Запас товару", "avg_markers": 496.1002440729717, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.7, "description": "Продавець", "avg_markers": 0.9896301056230954, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 6.7, "description": "Кількість обслугованих покупців", "avg_markers": 503.88938603265143, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 6.7, "description": "Прибуток", "avg_markers": 847069.1395209118, "max_markers": 3350000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.7, "description": "Богр", "avg_markers": 7.491003925469271e+25, "max_markers": 3455689721412036938132619264, "min_markers": 496650000, "result_markers": 3455689721412036938129269264}
+{"price_coefficient": 6.7, "description": "Погашений борг", "avg_markers": 1687182374.0698614, "max_markers": 3350000000, "min_markers": 0, "result_markers": 3350000000}
+{"price_coefficient": 6.7, "description": "Затримка процентної ставки", "avg_markers": 0.0003320104728176235, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.7, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003320104728176235, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.8, "description": "Потік покупців", "avg_markers": 0.015176094132742948, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.8, "description": "Покупець надійшов", "avg_markers": 0.015176094132742948, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.8, "description": "Черга покупців", "avg_markers": 0.00017730916874169242, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.8, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49829.974843997385, "max_markers": 99484, "min_markers": 0, "result_markers": 99484}
+{"price_coefficient": 6.8, "description": "Запас товару", "avg_markers": 500.37740377390634, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.8, "description": "Продавець", "avg_markers": 0.9895438940627557, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 6.8, "description": "Кількість обслугованих покупців", "avg_markers": 499.6121401201564, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 6.8, "description": "Прибуток", "avg_markers": 873210.9255674535, "max_markers": 3400000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.8, "description": "Богр", "avg_markers": 3.537232133898068e+25, "max_markers": 1696738972146991691001233408, "min_markers": 496600000, "result_markers": 1696738972146991690997833408}
+{"price_coefficient": 6.8, "description": "Погашений борг", "avg_markers": 1697808065.4829643, "max_markers": 3400000000, "min_markers": 0, "result_markers": 3400000000}
+{"price_coefficient": 6.8, "description": "Затримка процентної ставки", "avg_markers": 0.0003266777955607161, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.8, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003266777955607161, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.9, "description": "Потік покупців", "avg_markers": 0.014759683969551293, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.9, "description": "Покупець надійшов", "avg_markers": 0.014759683969551293, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.9, "description": "Черга покупців", "avg_markers": 0.00017960096791929298, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.9, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 48559.97969805944, "max_markers": 95562, "min_markers": 0, "result_markers": 95562}
+{"price_coefficient": 6.9, "description": "Запас товару", "avg_markers": 506.88364501616485, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.9, "description": "Продавець", "avg_markers": 0.9882716746651512, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 6.9, "description": "Кількість обслугованих покупців", "avg_markers": 493.1046266585003, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 6.9, "description": "Прибуток", "avg_markers": 909923.4655313643, "max_markers": 3450000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.9, "description": "Богр", "avg_markers": 8.396808021467225e+24, "max_markers": 308989028522904464012607488, "min_markers": 500000000, "result_markers": 308989028522904464005707488}
+{"price_coefficient": 6.9, "description": "Погашений борг", "avg_markers": 1700301038.5062947, "max_markers": 3450000000, "min_markers": 0, "result_markers": 3450000000}
+{"price_coefficient": 6.9, "description": "Затримка процентної ставки", "avg_markers": 0.00031732051863868273, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 6.9, "description": "Процентна ставка готова до дії", "avg_markers": 0.00031732051863868273, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.0, "description": "Потік покупців", "avg_markers": 0.015099052523043792, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.0, "description": "Покупець надійшов", "avg_markers": 0.015099052523043792, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.0, "description": "Черга покупців", "avg_markers": 0.0001859744721511008, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.0, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49869.95624754195, "max_markers": 100892, "min_markers": 0, "result_markers": 100892}
+{"price_coefficient": 7.0, "description": "Запас товару", "avg_markers": 496.2238536933641, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.0, "description": "Продавець", "avg_markers": 0.9880150937177972, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 7.0, "description": "Кількість обслугованих покупців", "avg_markers": 503.7641614003537, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 7.0, "description": "Прибуток", "avg_markers": 907904.7003084361, "max_markers": 3500000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.0, "description": "Богр", "avg_markers": 5.322049003909675e+25, "max_markers": 2423916394962380404224425984, "min_markers": 500000000, "result_markers": 2423916394962380404220925984}
+{"price_coefficient": 7.0, "description": "Погашений борг", "avg_markers": 1762266660.2009294, "max_markers": 3500000000, "min_markers": 0, "result_markers": 3500000000}
+{"price_coefficient": 7.0, "description": "Затримка процентної ставки", "avg_markers": 0.00032319547710083727, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.0, "description": "Процентна ставка готова до дії", "avg_markers": 0.00032319547710083727, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.1, "description": "Потік покупців", "avg_markers": 0.015327839315470316, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.1, "description": "Покупець надійшов", "avg_markers": 0.015327839315470316, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.1, "description": "Черга покупців", "avg_markers": 0.00015894474460965006, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.1, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 52628.18710292504, "max_markers": 105850, "min_markers": 0, "result_markers": 105850}
+{"price_coefficient": 7.1, "description": "Запас товару", "avg_markers": 498.238253438256, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.1, "description": "Продавець", "avg_markers": 0.9913220186097327, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 7.1, "description": "Кількість обслугованих покупців", "avg_markers": 501.7530685803537, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 7.1, "description": "Прибуток", "avg_markers": 904181.6452961536, "max_markers": 3550000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.1, "description": "Богр", "avg_markers": 6.152409069659414e+26, "max_markers": 25256974830996490818271838208, "min_markers": 500000000, "result_markers": 25256974830996490818261188208}
+{"price_coefficient": 7.1, "description": "Погашений борг", "avg_markers": 1780319211.8149595, "max_markers": 3550000000, "min_markers": 0, "result_markers": 3550000000}
+{"price_coefficient": 7.1, "description": "Затримка процентної ставки", "avg_markers": 0.00032950909600033053, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.1, "description": "Процентна ставка готова до дії", "avg_markers": 0.00032950909600033053, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.2, "description": "Потік покупців", "avg_markers": 0.014745173379156934, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.2, "description": "Покупець надійшов", "avg_markers": 0.014745173379156934, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.2, "description": "Черга покупців", "avg_markers": 0.00016937696675449555, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.2, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49823.075559709556, "max_markers": 99636, "min_markers": 0, "result_markers": 99636}
+{"price_coefficient": 7.2, "description": "Запас товару", "avg_markers": 500.83394551775945, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.2, "description": "Продавець", "avg_markers": 0.990584926358382, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 7.2, "description": "Кількість обслугованих покупців", "avg_markers": 499.15663940859895, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 7.2, "description": "Прибуток", "avg_markers": 949713.0042096623, "max_markers": 3600000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.2, "description": "Богр", "avg_markers": 4.20491422379296e+25, "max_markers": 1762640747761952538033651712, "min_markers": 500000000, "result_markers": 1762640747761952538030051712}
+{"price_coefficient": 7.2, "description": "Погашений борг", "avg_markers": 1796014188.8667464, "max_markers": 3600000000, "min_markers": 0, "result_markers": 3600000000}
+{"price_coefficient": 7.2, "description": "Затримка процентної ставки", "avg_markers": 0.00031736203286352713, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.2, "description": "Процентна ставка готова до дії", "avg_markers": 0.00031736203286352713, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.3, "description": "Потік покупців", "avg_markers": 0.014650057828218774, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.3, "description": "Покупець надійшов", "avg_markers": 0.014650057828218774, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.3, "description": "Черга покупців", "avg_markers": 0.00016478715259435773, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.3, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49644.708064796694, "max_markers": 99727, "min_markers": 0, "result_markers": 99727}
+{"price_coefficient": 7.3, "description": "Запас товару", "avg_markers": 499.1689557003265, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.3, "description": "Продавець", "avg_markers": 0.9889951852481028, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 7.3, "description": "Кількість обслугованих покупців", "avg_markers": 500.8200394849216, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 7.3, "description": "Прибуток", "avg_markers": 969100.583285434, "max_markers": 3650000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.3, "description": "Богр", "avg_markers": 3.8619134050731343e+25, "max_markers": 1669568546279286211526787072, "min_markers": 500000000, "result_markers": 1669568546279286211523137072}
+{"price_coefficient": 7.3, "description": "Погашений борг", "avg_markers": 1827024043.5366786, "max_markers": 3650000000, "min_markers": 0, "result_markers": 3650000000}
+{"price_coefficient": 7.3, "description": "Затримка процентної ставки", "avg_markers": 0.0003150299845713847, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.3, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003150299845713847, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.4, "description": "Потік покупців", "avg_markers": 0.014837421574401452, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.4, "description": "Покупець надійшов", "avg_markers": 0.014837421574401452, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.4, "description": "Черга покупців", "avg_markers": 0.0001578403680228224, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.4, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 51673.8130246342, "max_markers": 103249, "min_markers": 0, "result_markers": 103249}
+{"price_coefficient": 7.4, "description": "Запас товару", "avg_markers": 500.50170592845006, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.4, "description": "Продавець", "avg_markers": 0.9917719481372702, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 7.4, "description": "Кількість обслугованих покупців", "avg_markers": 499.4900660196872, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 7.4, "description": "Прибуток", "avg_markers": 974490.9754876328, "max_markers": 3700000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.4, "description": "Богр", "avg_markers": 1.5143159126453568e+26, "max_markers": 6474609707857138276299177984, "min_markers": 496300000, "result_markers": 6474609707857138276291777984}
+{"price_coefficient": 7.4, "description": "Погашений борг", "avg_markers": 1847138753.297355, "max_markers": 3700000000, "min_markers": 0, "result_markers": 3700000000}
+{"price_coefficient": 7.4, "description": "Затримка процентної ставки", "avg_markers": 0.00031781563732638627, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.4, "description": "Процентна ставка готова до дії", "avg_markers": 0.00031781563732638627, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.5, "description": "Потік покупців", "avg_markers": 0.013971855775058821, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.5, "description": "Покупець надійшов", "avg_markers": 0.013971855775058821, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.5, "description": "Черга покупців", "avg_markers": 0.0001755599572690903, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.5, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 47157.499299901145, "max_markers": 93626, "min_markers": 0, "result_markers": 93626}
+{"price_coefficient": 7.5, "description": "Запас товару", "avg_markers": 502.05274018971994, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.5, "description": "Продавець", "avg_markers": 0.9891855656936058, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 7.5, "description": "Кількість обслугованих покупців", "avg_markers": 497.9364453759737, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 7.5, "description": "Прибуток", "avg_markers": 1038465.7549558036, "max_markers": 3750000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.5, "description": "Богр", "avg_markers": 2.898532882038279e+24, "max_markers": 114832126380963626582278144, "min_markers": 500000000, "result_markers": 114832126380963626578528144}
+{"price_coefficient": 7.5, "description": "Погашений борг", "avg_markers": 1866223204.4049456, "max_markers": 3750000000, "min_markers": 0, "result_markers": 3750000000}
+{"price_coefficient": 7.5, "description": "Затримка процентної ставки", "avg_markers": 0.00029958885895625247, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.5, "description": "Процентна ставка готова до дії", "avg_markers": 0.00029958885895625247, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.6, "description": "Потік покупців", "avg_markers": 0.0144476336299899, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.6, "description": "Покупець надійшов", "avg_markers": 0.0144476336299899, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.6, "description": "Черга покупців", "avg_markers": 0.0001632829011505426, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.6, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 50818.71236576956, "max_markers": 101020, "min_markers": 0, "result_markers": 101020}
+{"price_coefficient": 7.6, "description": "Запас товару", "avg_markers": 501.50588993854444, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.6, "description": "Продавець", "avg_markers": 0.989565755284673, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 7.6, "description": "Кількість обслугованих покупців", "avg_markers": 498.48367581674023, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 7.6, "description": "Прибуток", "avg_markers": 1022734.417883004, "max_markers": 3800000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.6, "description": "Богр", "avg_markers": 6.958132133499876e+25, "max_markers": 2825582615578559492736942080, "min_markers": 500000000, "result_markers": 2825582615578559492733142080}
+{"price_coefficient": 7.6, "description": "Погашений борг", "avg_markers": 1893215233.6857297, "max_markers": 3800000000, "min_markers": 0, "result_markers": 3800000000}
+{"price_coefficient": 7.6, "description": "Затримка процентної ставки", "avg_markers": 0.0003101383811966073, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.6, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003101383811966073, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.7, "description": "Потік покупців", "avg_markers": 0.01436125006497, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.7, "description": "Покупець надійшов", "avg_markers": 0.01436125006497, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.7, "description": "Черга покупців", "avg_markers": 0.00016814938745580283, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.7, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 51038.38414057682, "max_markers": 101233, "min_markers": 0, "result_markers": 101233}
+{"price_coefficient": 7.7, "description": "Запас товару", "avg_markers": 502.5702600345289, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.7, "description": "Продавець", "avg_markers": 0.9890417732525879, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 7.7, "description": "Кількість обслугованих покупців", "avg_markers": 497.4187817387237, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 7.7, "description": "Прибуток", "avg_markers": 1041371.8714310398, "max_markers": 3850000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.7, "description": "Богр", "avg_markers": 7.380176012928841e+25, "max_markers": 3129547716374959064342331392, "min_markers": 500000000, "result_markers": 3129547716374959064334631392}
+{"price_coefficient": 7.7, "description": "Погашений борг", "avg_markers": 1914020937.822655, "max_markers": 3850000000, "min_markers": 0, "result_markers": 3850000000}
+{"price_coefficient": 7.7, "description": "Затримка процентної ставки", "avg_markers": 0.0003083441148416769, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.7, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003083441148416769, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.8, "description": "Потік покупців", "avg_markers": 0.01391641820995484, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.8, "description": "Покупець надійшов", "avg_markers": 0.01391641820995484, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.8, "description": "Черга покупців", "avg_markers": 0.00016130322775575196, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.8, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 48258.42930775903, "max_markers": 96922, "min_markers": 0, "result_markers": 96922}
+{"price_coefficient": 7.8, "description": "Запас товару", "avg_markers": 498.6361493750317, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.8, "description": "Продавець", "avg_markers": 0.9899108028679856, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 7.8, "description": "Кількість обслугованих покупців", "avg_markers": 501.3537614278363, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 7.8, "description": "Прибуток", "avg_markers": 1081080.3678054675, "max_markers": 3900000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.8, "description": "Богр", "avg_markers": 1.3129428662648796e+25, "max_markers": 547165583767082560485588992, "min_markers": 500000000, "result_markers": 547165583767082560481688992}
+{"price_coefficient": 7.8, "description": "Погашений борг", "avg_markers": 1954198589.200756, "max_markers": 3900000000, "min_markers": 0, "result_markers": 3900000000}
+{"price_coefficient": 7.8, "description": "Затримка процентної ставки", "avg_markers": 0.00029929920498115737, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.8, "description": "Процентна ставка готова до дії", "avg_markers": 0.00029929920498115737, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.9, "description": "Потік покупців", "avg_markers": 0.014030447589643738, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.9, "description": "Покупець надійшов", "avg_markers": 0.014030447589643738, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.9, "description": "Черга покупців", "avg_markers": 0.0001737477843668582, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.9, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49833.95977299189, "max_markers": 99536, "min_markers": 0, "result_markers": 99536}
+{"price_coefficient": 7.9, "description": "Запас товару", "avg_markers": 499.40299675154444, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.9, "description": "Продавець", "avg_markers": 0.9878087669084854, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 7.9, "description": "Кількість обслугованих покупців", "avg_markers": 500.58481201536404, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 7.9, "description": "Прибуток", "avg_markers": 1088991.5075711468, "max_markers": 3950000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.9, "description": "Богр", "avg_markers": 3.7591420819021376e+25, "max_markers": 1570217092912996113465737216, "min_markers": 496050000, "result_markers": 1570217092912996113461787216}
+{"price_coefficient": 7.9, "description": "Погашений борг", "avg_markers": 1976221015.953117, "max_markers": 3950000000, "min_markers": 0, "result_markers": 3950000000}
+{"price_coefficient": 7.9, "description": "Затримка процентної ставки", "avg_markers": 0.0003013023826891942, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 7.9, "description": "Процентна ставка готова до дії", "avg_markers": 0.0003013023826891942, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.0, "description": "Потік покупців", "avg_markers": 0.013812220323655925, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.0, "description": "Покупець надійшов", "avg_markers": 0.013812220323655925, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.0, "description": "Черга покупців", "avg_markers": 0.00016616121333252012, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.0, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49195.45939310311, "max_markers": 98418, "min_markers": 0, "result_markers": 98418}
+{"price_coefficient": 8.0, "description": "Запас товару", "avg_markers": 499.3407280167395, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.0, "description": "Продавець", "avg_markers": 0.9894630728237639, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.0, "description": "Кількість обслугованих покупців", "avg_markers": 500.64873505608426, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 8.0, "description": "Прибуток", "avg_markers": 1111724.1045876471, "max_markers": 4000000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.0, "description": "Богр", "avg_markers": 2.8836807461840276e+25, "max_markers": 1168541377361301550084915200, "min_markers": 496000000, "result_markers": 1168541377361301550080915200}
+{"price_coefficient": 8.0, "description": "Погашений борг", "avg_markers": 2001483216.1197495, "max_markers": 4000000000, "min_markers": 0, "result_markers": 4000000000}
+{"price_coefficient": 8.0, "description": "Затримка процентної ставки", "avg_markers": 0.0002984233162527201, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.0, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002984233162527201, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.1, "description": "Потік покупців", "avg_markers": 0.013523825247010826, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.1, "description": "Покупець надійшов", "avg_markers": 0.013523825247010826, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.1, "description": "Черга покупців", "avg_markers": 0.0007296298265397778, "max_markers": 2, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.1, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 47881.10617170295, "max_markers": 95661, "min_markers": 0, "result_markers": 95661}
+{"price_coefficient": 8.1, "description": "Запас товару", "avg_markers": 500.4715419183878, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.1, "description": "Продавець", "avg_markers": 0.9898682888746492, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.1, "description": "Кількість обслугованих покупців", "avg_markers": 499.5183263704869, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 8.1, "description": "Прибуток", "avg_markers": 1147719.4764293889, "max_markers": 4050000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.1, "description": "Богр", "avg_markers": 7.639327793907356e+24, "max_markers": 320004998300592944344727552, "min_markers": 500000000, "result_markers": 320004998300592944340677552}
+{"price_coefficient": 8.1, "description": "Погашений борг", "avg_markers": 2021901502.3240423, "max_markers": 4050000000, "min_markers": 0, "result_markers": 4050000000}
+{"price_coefficient": 8.1, "description": "Затримка процентної ставки", "avg_markers": 0.0002910124715633246, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.1, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002910124715633246, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.2, "description": "Потік покупців", "avg_markers": 0.013691836427667045, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.2, "description": "Покупець надійшов", "avg_markers": 0.013691836427667045, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.2, "description": "Черга покупців", "avg_markers": 0.00015593377426719363, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.2, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49208.38613224392, "max_markers": 98747, "min_markers": 0, "result_markers": 98747}
+{"price_coefficient": 8.2, "description": "Запас товару", "avg_markers": 498.09133354124504, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.2, "description": "Продавець", "avg_markers": 0.9916863688624411, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.2, "description": "Кількість обслугованих покупців", "avg_markers": 501.9003528276174, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 8.2, "description": "Прибуток", "avg_markers": 1153999.7148992524, "max_markers": 4100000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.2, "description": "Богр", "avg_markers": 2.3752700735747006e+25, "max_markers": 1043682800312003376051126272, "min_markers": 500000000, "result_markers": 1043682800312003376047026272}
+{"price_coefficient": 8.2, "description": "Погашений борг", "avg_markers": 2056637446.8783321, "max_markers": 4100000000, "min_markers": 0, "result_markers": 4100000000}
+{"price_coefficient": 8.2, "description": "Затримка процентної ставки", "avg_markers": 0.00029361121756824575, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.2, "description": "Процентна ставка готова до дії", "avg_markers": 0.00029361121756824575, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.3, "description": "Потік покупців", "avg_markers": 0.013778821297615665, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.3, "description": "Покупець надійшов", "avg_markers": 0.013778821297615665, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.3, "description": "Черга покупців", "avg_markers": 0.00013709401507416505, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.3, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 51126.13402034309, "max_markers": 101617, "min_markers": 0, "result_markers": 101617}
+{"price_coefficient": 8.3, "description": "Запас товару", "avg_markers": 503.13853732904875, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.3, "description": "Продавець", "avg_markers": 0.9934805820627856, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.3, "description": "Кількість обслугованих покупців", "avg_markers": 496.854943253014, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 8.3, "description": "Прибуток", "avg_markers": 1156548.3606187573, "max_markers": 4150000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.3, "description": "Богр", "avg_markers": 1.01277873197428e+26, "max_markers": 4329712969443880887272865792, "min_markers": 491700000, "result_markers": 4329712969443880887268715792}
+{"price_coefficient": 8.3, "description": "Погашений борг", "avg_markers": 2060791466.1393895, "max_markers": 4150000000, "min_markers": 0, "result_markers": 4150000000}
+{"price_coefficient": 8.3, "description": "Затримка процентної ставки", "avg_markers": 0.00029741747638518663, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.3, "description": "Процентна ставка готова до дії", "avg_markers": 0.00029741747638518663, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.4, "description": "Потік покупців", "avg_markers": 0.013628557537940659, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.4, "description": "Покупець надійшов", "avg_markers": 0.013628557537940659, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.4, "description": "Черга покупців", "avg_markers": 0.0001514747533557846, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.4, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49423.70827926564, "max_markers": 100309, "min_markers": 0, "result_markers": 100309}
+{"price_coefficient": 8.4, "description": "Запас товару", "avg_markers": 494.26968411729365, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.4, "description": "Продавець", "avg_markers": 0.9906280713658637, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.4, "description": "Кількість обслугованих покупців", "avg_markers": 505.7209439540722, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 8.4, "description": "Прибуток", "avg_markers": 1186791.024838362, "max_markers": 4200000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.4, "description": "Богр", "avg_markers": 4.5650297521589325e+25, "max_markers": 1916528198786977304661721088, "min_markers": 500000000, "result_markers": 1916528198786977304657521088}
+{"price_coefficient": 8.4, "description": "Погашений борг", "avg_markers": 2122841173.582265, "max_markers": 4200000000, "min_markers": 0, "result_markers": 4200000000}
+{"price_coefficient": 8.4, "description": "Затримка процентної ставки", "avg_markers": 0.00029205301024459, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.4, "description": "Процентна ставка готова до дії", "avg_markers": 0.00029205301024459, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.5, "description": "Потік покупців", "avg_markers": 0.013236819909899236, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.5, "description": "Покупець надійшов", "avg_markers": 0.013236819909899236, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.5, "description": "Черга покупців", "avg_markers": 0.00016131056839066547, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.5, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 48054.5196694516, "max_markers": 96649, "min_markers": 0, "result_markers": 96649}
+{"price_coefficient": 8.5, "description": "Запас товару", "avg_markers": 498.3673202952824, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.5, "description": "Продавець", "avg_markers": 0.9899191739163793, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.5, "description": "Кількість обслугованих покупців", "avg_markers": 501.622598878634, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 8.5, "description": "Прибуток", "avg_markers": 1224520.046836998, "max_markers": 4250000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.5, "description": "Богр", "avg_markers": 1.0235427076195978e+25, "max_markers": 429894820728174070720364544, "min_markers": 500000000, "result_markers": 429894820728174070716114544}
+{"price_coefficient": 8.5, "description": "Погашений борг", "avg_markers": 2130671525.1873574, "max_markers": 4250000000, "min_markers": 0, "result_markers": 4250000000}
+{"price_coefficient": 8.5, "description": "Затримка процентної ставки", "avg_markers": 0.00028466570892470374, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.5, "description": "Процентна ставка готова до дії", "avg_markers": 0.00028466570892470374, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.6, "description": "Потік покупців", "avg_markers": 0.013267278172174253, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.6, "description": "Покупець надійшов", "avg_markers": 0.013267278172174253, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.6, "description": "Черга покупців", "avg_markers": 0.0001420387987522479, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.6, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49324.12437192219, "max_markers": 98384, "min_markers": 0, "result_markers": 98384}
+{"price_coefficient": 8.6, "description": "Запас товару", "avg_markers": 501.6306361135515, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.6, "description": "Продавець", "avg_markers": 0.9911304512895694, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.6, "description": "Кількість обслугованих покупців", "avg_markers": 498.3604943377381, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 8.6, "description": "Прибуток", "avg_markers": 1234450.469108497, "max_markers": 4300000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.6, "description": "Богр", "avg_markers": 2.369657530020662e+25, "max_markers": 1101965474003779152238346240, "min_markers": 500000000, "result_markers": 1101965474003779152234046240}
+{"price_coefficient": 8.6, "description": "Погашений борг", "avg_markers": 2141715675.1831653, "max_markers": 4300000000, "min_markers": 0, "result_markers": 4300000000}
+{"price_coefficient": 8.6, "description": "Затримка процентної ставки", "avg_markers": 0.0002860800241786346, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.6, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002860800241786346, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.7, "description": "Потік покупців", "avg_markers": 0.01323701284443666, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.7, "description": "Покупець надійшов", "avg_markers": 0.01323701284443666, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.7, "description": "Черга покупців", "avg_markers": 0.00015158096566334, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.7, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49572.4344240373, "max_markers": 99076, "min_markers": 0, "result_markers": 99076}
+{"price_coefficient": 8.7, "description": "Запас товару", "avg_markers": 499.9318752020418, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.7, "description": "Продавець", "avg_markers": 0.9911732525465867, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.7, "description": "Кількість обслугованих покупців", "avg_markers": 500.05929805050476, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 8.7, "description": "Прибуток", "avg_markers": 1251723.4729342002, "max_markers": 4350000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.7, "description": "Богр", "avg_markers": 2.9762442262761083e+25, "max_markers": 1363643204597876662862872576, "min_markers": 495650000, "result_markers": 1363643204597876662854172576}
+{"price_coefficient": 8.7, "description": "Погашений борг", "avg_markers": 2174006223.0467615, "max_markers": 4350000000, "min_markers": 0, "result_markers": 4350000000}
+{"price_coefficient": 8.7, "description": "Затримка процентної ставки", "avg_markers": 0.00028517326524446864, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.7, "description": "Процентна ставка готова до дії", "avg_markers": 0.00028517326524446864, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.8, "description": "Потік покупців", "avg_markers": 0.013005993481816623, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.8, "description": "Покупець надійшов", "avg_markers": 0.013005993481816623, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.8, "description": "Черга покупців", "avg_markers": 0.0007422219227632938, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.8, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 47549.984879018884, "max_markers": 97058, "min_markers": 0, "result_markers": 97058}
+{"price_coefficient": 8.8, "description": "Запас товару", "avg_markers": 493.1312377280051, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.8, "description": "Продавець", "avg_markers": 0.9893587446634562, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.8, "description": "Кількість обслугованих покупців", "avg_markers": 506.85812101665834, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 8.8, "description": "Прибуток", "avg_markers": 1284192.4768725452, "max_markers": 4400000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.8, "description": "Богр", "avg_markers": 1.0960508920194362e+25, "max_markers": 500061541322364245436792832, "min_markers": 500000000, "result_markers": 500061541322364245432392832}
+{"price_coefficient": 8.8, "description": "Погашений борг", "avg_markers": 2228891539.996424, "max_markers": 4400000000, "min_markers": 0, "result_markers": 4400000000}
+{"price_coefficient": 8.8, "description": "Затримка процентної ставки", "avg_markers": 0.00027959324753127653, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.8, "description": "Процентна ставка готова до дії", "avg_markers": 0.00027959324753127653, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.9, "description": "Потік покупців", "avg_markers": 0.013071206183329543, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.9, "description": "Покупець надійшов", "avg_markers": 0.013071206183329543, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.9, "description": "Черга покупців", "avg_markers": 0.0001476876712078779, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.9, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49813.26233645024, "max_markers": 99277, "min_markers": 0, "result_markers": 99277}
+{"price_coefficient": 8.9, "description": "Запас товару", "avg_markers": 501.0256288294677, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.9, "description": "Продавець", "avg_markers": 0.9906354545567121, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 8.9, "description": "Кількість обслугованих покупців", "avg_markers": 498.965006625089, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 8.9, "description": "Прибуток", "avg_markers": 1290928.9266443287, "max_markers": 4450000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.9, "description": "Богр", "avg_markers": 3.832715473468505e+25, "max_markers": 1596853797078503383623532544, "min_markers": 500000000, "result_markers": 1596853797078503383619082544}
+{"price_coefficient": 8.9, "description": "Погашений борг", "avg_markers": 2219103350.5550017, "max_markers": 4450000000, "min_markers": 0, "result_markers": 4450000000}
+{"price_coefficient": 8.9, "description": "Затримка процентної ставки", "avg_markers": 0.000282079541477359, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 8.9, "description": "Процентна ставка готова до дії", "avg_markers": 0.000282079541477359, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.0, "description": "Потік покупців", "avg_markers": 0.01302646851922701, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.0, "description": "Покупець надійшов", "avg_markers": 0.01302646851922701, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.0, "description": "Черга покупців", "avg_markers": 0.00014562914453595163, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.0, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49882.744733414875, "max_markers": 99273, "min_markers": 0, "result_markers": 99273}
+{"price_coefficient": 9.0, "description": "Запас товару", "avg_markers": 501.03344234950083, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.0, "description": "Продавець", "avg_markers": 0.9911946981118227, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 9.0, "description": "Кількість обслугованих покупців", "avg_markers": 498.957752348611, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 9.0, "description": "Прибуток", "avg_markers": 1315631.359501977, "max_markers": 4500000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.0, "description": "Богр", "avg_markers": 2.6029614634408975e+25, "max_markers": 1074392310638396967976173568, "min_markers": 500000000, "result_markers": 1074392310638396967971673568}
+{"price_coefficient": 9.0, "description": "Погашений борг", "avg_markers": 2243994254.2092476, "max_markers": 4500000000, "min_markers": 0, "result_markers": 4500000000}
+{"price_coefficient": 9.0, "description": "Затримка процентної ставки", "avg_markers": 0.0002789168361451277, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.0, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002789168361451277, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.1, "description": "Потік покупців", "avg_markers": 0.013051340020525706, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.1, "description": "Покупець надійшов", "avg_markers": 0.013051340020525706, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.1, "description": "Черга покупців", "avg_markers": 0.0001465938771684265, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.1, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 50420.081586412285, "max_markers": 100851, "min_markers": 0, "result_markers": 100851}
+{"price_coefficient": 9.1, "description": "Запас товару", "avg_markers": 498.99847550056234, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.1, "description": "Продавець", "avg_markers": 0.9918472532805185, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 9.1, "description": "Кількість обслугованих покупців", "avg_markers": 500.9933717527182, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 9.1, "description": "Прибуток", "avg_markers": 1326719.149324957, "max_markers": 4550000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.1, "description": "Богр", "avg_markers": 6.2588421169539304e+25, "max_markers": 2421712919304643041065697280, "min_markers": 500000000, "result_markers": 2421712919304643041061147280}
+{"price_coefficient": 9.1, "description": "Погашений борг", "avg_markers": 2278193122.325543, "max_markers": 4550000000, "min_markers": 0, "result_markers": 4550000000}
+{"price_coefficient": 9.1, "description": "Затримка процентної ставки", "avg_markers": 0.00027998917973165373, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.1, "description": "Процентна ставка готова до дії", "avg_markers": 0.00027998917973165373, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.2, "description": "Потік покупців", "avg_markers": 0.013180788458587098, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.2, "description": "Покупець надійшов", "avg_markers": 0.013180788458587098, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.2, "description": "Черга покупців", "avg_markers": 0.00014166543797854473, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.2, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 52488.86862841482, "max_markers": 103951, "min_markers": 0, "result_markers": 103951}
+{"price_coefficient": 9.2, "description": "Запас товару", "avg_markers": 502.5315328677631, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.2, "description": "Продавець", "avg_markers": 0.990773033632229, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 9.2, "description": "Кількість обслугованих покупців", "avg_markers": 497.4592401658691, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 9.2, "description": "Прибуток", "avg_markers": 1329030.8651061198, "max_markers": 4600000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.2, "description": "Богр", "avg_markers": 2.5314148988650723e+26, "max_markers": 10848110592960533361783209984, "min_markers": 500000000, "result_markers": 10848110592960533361774009984}
+{"price_coefficient": 9.2, "description": "Погашений борг", "avg_markers": 2286983473.897892, "max_markers": 4600000000, "min_markers": 0, "result_markers": 4600000000}
+{"price_coefficient": 9.2, "description": "Затримка процентної ставки", "avg_markers": 0.00028358205581166133, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.2, "description": "Процентна ставка готова до дії", "avg_markers": 0.00028358205581166133, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.3, "description": "Потік покупців", "avg_markers": 0.012944740647539608, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.3, "description": "Покупець надійшов", "avg_markers": 0.012944740647539608, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.3, "description": "Черга покупців", "avg_markers": 0.0001414546632761253, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.3, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 51286.29666472093, "max_markers": 101676, "min_markers": 0, "result_markers": 101676}
+{"price_coefficient": 9.3, "description": "Запас товару", "avg_markers": 502.98035015702476, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.3, "description": "Продавець", "avg_markers": 0.9924546166288656, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 9.3, "description": "Кількість обслугованих покупців", "avg_markers": 497.01210445960413, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 9.3, "description": "Прибуток", "avg_markers": 1363307.7256687263, "max_markers": 4650000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.3, "description": "Богр", "avg_markers": 8.305559708908061e+25, "max_markers": 3610538457554464489483534336, "min_markers": 495350000, "result_markers": 3610538457554464489478884336}
+{"price_coefficient": 9.3, "description": "Погашений борг", "avg_markers": 2309742978.0114903, "max_markers": 4650000000, "min_markers": 0, "result_markers": 4650000000}
+{"price_coefficient": 9.3, "description": "Затримка процентної ставки", "avg_markers": 0.0002778663795548843, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.3, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002778663795548843, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.4, "description": "Потік покупців", "avg_markers": 0.012411061886640064, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.4, "description": "Покупець надійшов", "avg_markers": 0.012411061886640064, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.4, "description": "Черга покупців", "avg_markers": 0.0001433818003183153, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.4, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 47687.81464982044, "max_markers": 95687, "min_markers": 0, "result_markers": 95687}
+{"price_coefficient": 9.4, "description": "Запас товару", "avg_markers": 498.45597646022554, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.4, "description": "Продавець", "avg_markers": 0.9910813182756343, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 9.4, "description": "Кількість обслугованих покупців", "avg_markers": 501.5351048580501, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 9.4, "description": "Прибуток", "avg_markers": 1418075.4514312444, "max_markers": 4700000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.4, "description": "Богр", "avg_markers": 6.741990753775493e+24, "max_markers": 285065515780418735444066304, "min_markers": 495300000, "result_markers": 285065515780418735439366304}
+{"price_coefficient": 9.4, "description": "Погашений борг", "avg_markers": 2355796917.3814044, "max_markers": 4700000000, "min_markers": 0, "result_markers": 4700000000}
+{"price_coefficient": 9.4, "description": "Затримка процентної ставки", "avg_markers": 0.0002663538367596278, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.4, "description": "Процентна ставка готова до дії", "avg_markers": 0.0002663538367596278, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.5, "description": "Потік покупців", "avg_markers": 0.012598477054334556, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.5, "description": "Покупець надійшов", "avg_markers": 0.012598477054334556, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.5, "description": "Черга покупців", "avg_markers": 0.00014887140077721138, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.5, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49230.18956650626, "max_markers": 99621, "min_markers": 0, "result_markers": 99621}
+{"price_coefficient": 9.5, "description": "Запас товару", "avg_markers": 496.7033018023957, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.5, "description": "Продавець", "avg_markers": 0.9876884979251284, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 9.5, "description": "Кількість обслугованих покупців", "avg_markers": 503.28438669552946, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 9.5, "description": "Прибуток", "avg_markers": 1412793.850296472, "max_markers": 4750000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.5, "description": "Богр", "avg_markers": 3.96792720313675e+25, "max_markers": 1823370477474500392695889920, "min_markers": 495250000, "result_markers": 1823370477474500392691139920}
+{"price_coefficient": 9.5, "description": "Погашений борг", "avg_markers": 2389188042.9534683, "max_markers": 4750000000, "min_markers": 0, "result_markers": 4750000000}
+{"price_coefficient": 9.5, "description": "Затримка процентної ставки", "avg_markers": 0.00027220052589542264, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.5, "description": "Процентна ставка готова до дії", "avg_markers": 0.00027220052589542264, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.6, "description": "Потік покупців", "avg_markers": 0.012722522657538116, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.6, "description": "Покупець надійшов", "avg_markers": 0.012722522657538116, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.6, "description": "Черга покупців", "avg_markers": 0.00014628137413977773, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.6, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 50330.3538421551, "max_markers": 101889, "min_markers": 0, "result_markers": 101889}
+{"price_coefficient": 9.6, "description": "Запас товару", "avg_markers": 495.5317096719068, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.6, "description": "Продавець", "avg_markers": 0.9883633970615621, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 9.6, "description": "Кількість обслугованих покупців", "avg_markers": 504.45665372515475, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 9.6, "description": "Прибуток", "avg_markers": 1424779.297884027, "max_markers": 4800000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.6, "description": "Богр", "avg_markers": 8.819047211047874e+25, "max_markers": 3685190700821854535722991616, "min_markers": 495200000, "result_markers": 3685190700821854535718191616}
+{"price_coefficient": 9.6, "description": "Погашений борг", "avg_markers": 2419967158.5828586, "max_markers": 4800000000, "min_markers": 0, "result_markers": 4800000000}
+{"price_coefficient": 9.6, "description": "Затримка процентної ставки", "avg_markers": 0.00027290193806127594, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.6, "description": "Процентна ставка готова до дії", "avg_markers": 0.00027290193806127594, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.7, "description": "Потік покупців", "avg_markers": 0.012612575708521206, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.7, "description": "Покупець надійшов", "avg_markers": 0.012612575708521206, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.7, "description": "Черга покупців", "avg_markers": 0.00014090471189304863, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.7, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 49355.1022448761, "max_markers": 101222, "min_markers": 0, "result_markers": 101222}
+{"price_coefficient": 9.7, "description": "Запас товару", "avg_markers": 491.9939693523615, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.7, "description": "Продавець", "avg_markers": 0.98948483164478, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 9.7, "description": "Кількість обслугованих покупців", "avg_markers": 507.9955154792833, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 9.7, "description": "Прибуток", "avg_markers": 1451452.367174483, "max_markers": 4850000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.7, "description": "Богр", "avg_markers": 5.648983509967823e+25, "max_markers": 2407037034336972026463387648, "min_markers": 500000000, "result_markers": 2407037034336972026453687648}
+{"price_coefficient": 9.7, "description": "Погашений борг", "avg_markers": 2462326797.70735, "max_markers": 4850000000, "min_markers": 0, "result_markers": 4850000000}
+{"price_coefficient": 9.7, "description": "Затримка процентної ставки", "avg_markers": 0.00026959439184440567, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.7, "description": "Процентна ставка готова до дії", "avg_markers": 0.00026959439184440567, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.8, "description": "Потік покупців", "avg_markers": 0.01257846147244242, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.8, "description": "Покупець надійшов", "avg_markers": 0.01257846147244242, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.8, "description": "Черга покупців", "avg_markers": 0.00013458897696772985, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.8, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 51312.59402758977, "max_markers": 102178, "min_markers": 0, "result_markers": 102178}
+{"price_coefficient": 9.8, "description": "Запас товару", "avg_markers": 501.61024543957933, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.8, "description": "Продавець", "avg_markers": 0.9919303911662818, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 9.8, "description": "Кількість обслугованих покупців", "avg_markers": 498.381684951587, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 9.8, "description": "Прибуток", "avg_markers": 1463833.0890657185, "max_markers": 4900000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.8, "description": "Богр", "avg_markers": 1.0149201836305578e+26, "max_markers": 4772061168818501087190319104, "min_markers": 500000000, "result_markers": 4772061168818501087185419104}
+{"price_coefficient": 9.8, "description": "Погашений борг", "avg_markers": 2440606423.1737103, "max_markers": 4900000000, "min_markers": 0, "result_markers": 4900000000}
+{"price_coefficient": 9.8, "description": "Затримка процентної ставки", "avg_markers": 0.00027039705698770364, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.8, "description": "Процентна ставка готова до дії", "avg_markers": 0.00027039705698770364, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.9, "description": "Потік покупців", "avg_markers": 0.012382805891588697, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.9, "description": "Покупець надійшов", "avg_markers": 0.012382805891588697, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.9, "description": "Черга покупців", "avg_markers": 0.0001304440444376942, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.9, "description": "Кількість покупців, що покинули мазагин", "avg_markers": 50956.15032975792, "max_markers": 100668, "min_markers": 0, "result_markers": 100668}
+{"price_coefficient": 9.9, "description": "Запас товару", "avg_markers": 503.7702329857302, "max_markers": 1000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.9, "description": "Продавець", "avg_markers": 0.991902603728897, "max_markers": 1, "min_markers": 0, "result_markers": 1}
+{"price_coefficient": 9.9, "description": "Кількість обслугованих покупців", "avg_markers": 496.2216696179987, "max_markers": 1000, "min_markers": 0, "result_markers": 1000}
+{"price_coefficient": 9.9, "description": "Прибуток", "avg_markers": 1492461.3389307754, "max_markers": 4950000, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.9, "description": "Богр", "avg_markers": 7.758630307352582e+25, "max_markers": 2664720559847169173491810304, "min_markers": 500000000, "result_markers": 2664720559847169173486860304}
+{"price_coefficient": 9.9, "description": "Погашений борг", "avg_markers": 2454804803.2701626, "max_markers": 4950000000, "min_markers": 0, "result_markers": 4950000000}
+{"price_coefficient": 9.9, "description": "Затримка процентної ставки", "avg_markers": 0.00026673432055887054, "max_markers": 1, "min_markers": 0, "result_markers": 0}
+{"price_coefficient": 9.9, "description": "Процентна ставка готова до дії", "avg_markers": 0.00026673432055887054, "max_markers": 1, "min_markers": 0, "result_markers": 0}
